@@ -1,0 +1,1793 @@
+[
+  {
+    "name": "蘋果片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 3
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 4
+      },
+      {
+        "type": "捕獲點",
+        "amount": -1
+      },
+      {
+        "type": "掉物點",
+        "amount": 7
+      },
+      {
+        "type": "大大點",
+        "amount": -5
+      }
+    ],
+    "types": [
+      {
+        "type": "飛行",
+        "amount": 7
+      },
+      {
+        "type": "鋼",
+        "amount": 7
+      },
+      {
+        "type": "冰",
+        "amount": 7
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/apple.png",
+    "pieces": 3,
+    "id": 32,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "酪梨",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "龍",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/avocado.png",
+    "pieces": 3,
+    "id": 13,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "煎培根",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "酸",
+        "amount": 5
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "岩",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/bacon.png",
+    "pieces": 3,
+    "id": 14,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "香蕉片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 4
+      },
+      {
+        "type": "捕獲點",
+        "amount": -1
+      },
+      {
+        "type": "掉物點",
+        "amount": 7
+      },
+      {
+        "type": "大大點",
+        "amount": -5
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 7
+      },
+      {
+        "type": "蟲",
+        "amount": 7
+      },
+      {
+        "type": "電",
+        "amount": 7
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/banana.png",
+    "pieces": 3,
+    "id": 30,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "羅勒",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 1
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 2
+      },
+      {
+        "type": "團戰點",
+        "amount": 2
+      },
+      {
+        "type": "遭遇點",
+        "amount": -2
+      }
+    ],
+    "types": [
+      {
+        "type": "火",
+        "amount": 1
+      },
+      {
+        "type": "水",
+        "amount": 1
+      },
+      {
+        "type": "草",
+        "amount": 1
+      },
+      {
+        "type": "電",
+        "amount": 1
+      },
+      {
+        "type": "超能力",
+        "amount": 1
+      },
+      {
+        "type": "冰",
+        "amount": 1
+      },
+      {
+        "type": "龍",
+        "amount": 1
+      },
+      {
+        "type": "惡",
+        "amount": 1
+      },
+      {
+        "type": "妖精",
+        "amount": 1
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/basil.png",
+    "pieces": 4,
+    "id": 37,
+    "maxPiecesOnDish": 4
+  },
+  {
+    "name": "起司片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "酸",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 2
+      },
+      {
+        "type": "經驗點",
+        "amount": 2
+      },
+      {
+        "type": "掉物點",
+        "amount": 2
+      },
+      {
+        "type": "遭遇點",
+        "amount": -2
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 5
+      },
+      {
+        "type": "格鬥",
+        "amount": 5
+      },
+      {
+        "type": "飛行",
+        "amount": 5
+      },
+      {
+        "type": "毒",
+        "amount": 5
+      },
+      {
+        "type": "地面",
+        "amount": 5
+      },
+      {
+        "type": "岩",
+        "amount": 5
+      },
+      {
+        "type": "蟲",
+        "amount": 5
+      },
+      {
+        "type": "幽靈",
+        "amount": 5
+      },
+      {
+        "type": "鋼",
+        "amount": 5
+      },
+      {
+        "type": "火",
+        "amount": 5
+      },
+      {
+        "type": "水",
+        "amount": 5
+      },
+      {
+        "type": "草",
+        "amount": 5
+      },
+      {
+        "type": "電",
+        "amount": 5
+      },
+      {
+        "type": "超能力",
+        "amount": 5
+      },
+      {
+        "type": "冰",
+        "amount": 5
+      },
+      {
+        "type": "龍",
+        "amount": 5
+      },
+      {
+        "type": "惡",
+        "amount": 5
+      },
+      {
+        "type": "妖精",
+        "amount": 5
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/cheese.png",
+    "pieces": 3,
+    "id": 29,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "小番茄塊",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      },
+      {
+        "flavor": "鹹",
+        "amount": 5
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "蟲",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/cherrytomatoes.png",
+    "pieces": 3,
+    "id": 5,
+    "maxPiecesOnDish": 9
+  },
+  {
+    "name": "煎辣香腸",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 2
+      },
+      {
+        "flavor": "辣",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "經驗點",
+        "amount": 7
+      },
+      {
+        "type": "掉物點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 4
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 12
+      },
+      {
+        "type": "毒",
+        "amount": 12
+      },
+      {
+        "type": "蟲",
+        "amount": 12
+      },
+      {
+        "type": "火",
+        "amount": 12
+      },
+      {
+        "type": "電",
+        "amount": 12
+      },
+      {
+        "type": "龍",
+        "amount": 12
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/chorizo.png",
+    "pieces": 3,
+    "id": 17,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "小黃瓜片",
+    "tastes": [
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "水",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/cucumber.png",
+    "pieces": 3,
+    "id": 6,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "蛋蛋點",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "酸",
+        "amount": 2
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "經驗點",
+        "amount": 7
+      },
+      {
+        "type": "掉物點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 4
+      }
+    ],
+    "types": [
+      {
+        "type": "飛行",
+        "amount": 12
+      },
+      {
+        "type": "岩",
+        "amount": 12
+      },
+      {
+        "type": "鋼",
+        "amount": 12
+      },
+      {
+        "type": "草",
+        "amount": 12
+      },
+      {
+        "type": "冰",
+        "amount": 12
+      },
+      {
+        "type": "妖精",
+        "amount": 12
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/egg.png",
+    "pieces": 3,
+    "id": 23,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "炸魚片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 2
+      },
+      {
+        "flavor": "酸",
+        "amount": 3
+      },
+      {
+        "flavor": "苦",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 21
+      },
+      {
+        "type": "團戰點",
+        "amount": 12
+      },
+      {
+        "type": "遭遇點",
+        "amount": -3
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 20
+      },
+      {
+        "type": "飛行",
+        "amount": 20
+      },
+      {
+        "type": "地面",
+        "amount": 20
+      },
+      {
+        "type": "蟲",
+        "amount": 20
+      },
+      {
+        "type": "鋼",
+        "amount": 20
+      },
+      {
+        "type": "水",
+        "amount": 20
+      },
+      {
+        "type": "電",
+        "amount": 20
+      },
+      {
+        "type": "冰",
+        "amount": 20
+      },
+      {
+        "type": "惡",
+        "amount": 20
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/friedfillet.png",
+    "pieces": 1,
+    "id": 22,
+    "maxPiecesOnDish": 1
+  },
+  {
+    "name": "青椒片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 5
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "毒",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/greenbellpepper.png",
+    "pieces": 3,
+    "id": 10,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "火腿片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "酸",
+        "amount": 5
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "地面",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/ham.png",
+    "pieces": 3,
+    "id": 15,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "漢堡排",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 6
+      },
+      {
+        "flavor": "酸",
+        "amount": 12
+      },
+      {
+        "flavor": "苦",
+        "amount": 9
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": -3
+      },
+      {
+        "type": "遭遇點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "鋼",
+        "amount": 18
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/hamburger.png",
+    "pieces": 1,
+    "id": 19,
+    "maxPiecesOnDish": 1
+  },
+  {
+    "name": "香草香腸",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "經驗點",
+        "amount": 7
+      },
+      {
+        "type": "掉物點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 4
+      }
+    ],
+    "types": [
+      {
+        "type": "格鬥",
+        "amount": 12
+      },
+      {
+        "type": "地面",
+        "amount": 12
+      },
+      {
+        "type": "幽靈",
+        "amount": 12
+      },
+      {
+        "type": "水",
+        "amount": 12
+      },
+      {
+        "type": "超能力",
+        "amount": 12
+      },
+      {
+        "type": "惡",
+        "amount": 12
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/herbedsausage.png",
+    "pieces": 3,
+    "id": 18,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "小辣椒",
+    "tastes": [
+      {
+        "flavor": "鹹",
+        "amount": 2
+      },
+      {
+        "flavor": "辣",
+        "amount": 5
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 4
+      },
+      {
+        "type": "捕獲點",
+        "amount": -1
+      },
+      {
+        "type": "掉物點",
+        "amount": 7
+      },
+      {
+        "type": "大大點",
+        "amount": -5
+      }
+    ],
+    "types": [
+      {
+        "type": "岩",
+        "amount": 7
+      },
+      {
+        "type": "草",
+        "amount": 7
+      },
+      {
+        "type": "妖精",
+        "amount": 7
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/jalapeno.png",
+    "pieces": 3,
+    "id": 35,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "奇異果片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 2
+      },
+      {
+        "flavor": "鹹",
+        "amount": 5
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 4
+      },
+      {
+        "type": "捕獲點",
+        "amount": -1
+      },
+      {
+        "type": "掉物點",
+        "amount": 7
+      },
+      {
+        "type": "大大點",
+        "amount": -5
+      }
+    ],
+    "types": [
+      {
+        "type": "毒",
+        "amount": 7
+      },
+      {
+        "type": "火",
+        "amount": 7
+      },
+      {
+        "type": "龍",
+        "amount": 7
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/kiwi.png",
+    "pieces": 3,
+    "id": 33,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "毛岸蟹棒",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "冰",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/klawfstick.png",
+    "pieces": 3,
+    "id": 20,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "生菜",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 2
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "草",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/lettuce.png",
+    "pieces": 3,
+    "id": 3,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "麵條",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "大大點",
+        "amount": 21
+      },
+      {
+        "type": "小小點",
+        "amount": -3
+      },
+      {
+        "type": "遭遇點",
+        "amount": 12
+      }
+    ],
+    "types": [
+      {
+        "type": "毒",
+        "amount": 30
+      },
+      {
+        "type": "地面",
+        "amount": 30
+      },
+      {
+        "type": "岩",
+        "amount": 30
+      },
+      {
+        "type": "電",
+        "amount": 30
+      },
+      {
+        "type": "超能力",
+        "amount": 30
+      },
+      {
+        "type": "冰",
+        "amount": 30
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/noodles.png",
+    "pieces": 1,
+    "id": 27,
+    "maxPiecesOnDish": 1
+  },
+  {
+    "name": "洋蔥片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 2
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      },
+      {
+        "flavor": "辣",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "超能力",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/onion.png",
+    "pieces": 3,
+    "id": 8,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "酸黃瓜片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "鹹",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 2
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "格鬥",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/pickle.png",
+    "pieces": 3,
+    "id": 7,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "鳳梨片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      },
+      {
+        "flavor": "鹹",
+        "amount": 5
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 4
+      },
+      {
+        "type": "捕獲點",
+        "amount": -1
+      },
+      {
+        "type": "掉物點",
+        "amount": 7
+      },
+      {
+        "type": "大大點",
+        "amount": -5
+      }
+    ],
+    "types": [
+      {
+        "type": "地面",
+        "amount": 7
+      },
+      {
+        "type": "水",
+        "amount": 7
+      },
+      {
+        "type": "惡",
+        "amount": 7
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/pineapple.png",
+    "pieces": 3,
+    "id": 34,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "馬鈴薯沙拉",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 2
+      },
+      {
+        "flavor": "酸",
+        "amount": 3
+      },
+      {
+        "flavor": "鹹",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "大大點",
+        "amount": 21
+      },
+      {
+        "type": "小小點",
+        "amount": -3
+      },
+      {
+        "type": "遭遇點",
+        "amount": 12
+      }
+    ],
+    "types": [
+      {
+        "type": "蟲",
+        "amount": 30
+      },
+      {
+        "type": "幽靈",
+        "amount": 30
+      },
+      {
+        "type": "鋼",
+        "amount": 30
+      },
+      {
+        "type": "龍",
+        "amount": 30
+      },
+      {
+        "type": "惡",
+        "amount": 30
+      },
+      {
+        "type": "妖精",
+        "amount": 30
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/potatosalad.png",
+    "pieces": 1,
+    "id": 28,
+    "maxPiecesOnDish": 1
+  },
+  {
+    "name": "煎蛋",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 3
+      },
+      {
+        "flavor": "辣",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 21
+      },
+      {
+        "type": "團戰點",
+        "amount": 12
+      },
+      {
+        "type": "遭遇點",
+        "amount": -3
+      }
+    ],
+    "types": [
+      {
+        "type": "格鬥",
+        "amount": 20
+      },
+      {
+        "type": "毒",
+        "amount": 20
+      },
+      {
+        "type": "岩",
+        "amount": 20
+      },
+      {
+        "type": "幽靈",
+        "amount": 20
+      },
+      {
+        "type": "火",
+        "amount": 20
+      },
+      {
+        "type": "草",
+        "amount": 20
+      },
+      {
+        "type": "超能力",
+        "amount": 20
+      },
+      {
+        "type": "龍",
+        "amount": 20
+      },
+      {
+        "type": "妖精",
+        "amount": 20
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/potatotortilla.png",
+    "pieces": 1,
+    "id": 24,
+    "maxPiecesOnDish": 1
+  },
+  {
+    "name": "生火腿",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 2
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "飛行",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/prosciutto.png",
+    "pieces": 3,
+    "id": 16,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "紅椒片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "火",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/redbellpepper.png",
+    "pieces": 3,
+    "id": 11,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "Red 洋蔥片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "幽靈",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/redonion.png",
+    "pieces": 3,
+    "id": 9,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "米飯",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "大大點",
+        "amount": 21
+      },
+      {
+        "type": "小小點",
+        "amount": -3
+      },
+      {
+        "type": "遭遇點",
+        "amount": 12
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 30
+      },
+      {
+        "type": "格鬥",
+        "amount": 30
+      },
+      {
+        "type": "飛行",
+        "amount": 30
+      },
+      {
+        "type": "火",
+        "amount": 30
+      },
+      {
+        "type": "水",
+        "amount": 30
+      },
+      {
+        "type": "草",
+        "amount": 30
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/rice.png",
+    "pieces": 1,
+    "id": 26,
+    "maxPiecesOnDish": 1
+  },
+  {
+    "name": "煙燻魚片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "酸",
+        "amount": 3
+      },
+      {
+        "flavor": "鹹",
+        "amount": 2
+      },
+      {
+        "flavor": "苦",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "惡",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/smokedfillet.png",
+    "pieces": 3,
+    "id": 21,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "草莓片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 4
+      },
+      {
+        "type": "捕獲點",
+        "amount": -1
+      },
+      {
+        "type": "掉物點",
+        "amount": 7
+      },
+      {
+        "type": "大大點",
+        "amount": -5
+      }
+    ],
+    "types": [
+      {
+        "type": "格鬥",
+        "amount": 7
+      },
+      {
+        "type": "幽靈",
+        "amount": 7
+      },
+      {
+        "type": "超能力",
+        "amount": 7
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/strawberry.png",
+    "pieces": 3,
+    "id": 31,
+    "maxPiecesOnDish": 6
+  },
+  {
+    "name": "豆腐",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/tofu.png",
+    "pieces": 3,
+    "id": 25,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "番茄片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 2
+      },
+      {
+        "flavor": "鹹",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "妖精",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/tomato.png",
+    "pieces": 3,
+    "id": 4,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "豆瓣菜",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 1
+      },
+      {
+        "flavor": "鹹",
+        "amount": 2
+      },
+      {
+        "flavor": "苦",
+        "amount": 5
+      },
+      {
+        "flavor": "辣",
+        "amount": 1
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 2
+      },
+      {
+        "type": "團戰點",
+        "amount": 2
+      },
+      {
+        "type": "遭遇點",
+        "amount": -2
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 1
+      },
+      {
+        "type": "格鬥",
+        "amount": 1
+      },
+      {
+        "type": "飛行",
+        "amount": 1
+      },
+      {
+        "type": "毒",
+        "amount": 1
+      },
+      {
+        "type": "地面",
+        "amount": 1
+      },
+      {
+        "type": "岩",
+        "amount": 1
+      },
+      {
+        "type": "蟲",
+        "amount": 1
+      },
+      {
+        "type": "幽靈",
+        "amount": 1
+      },
+      {
+        "type": "鋼",
+        "amount": 1
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/watercress.png",
+    "pieces": 3,
+    "id": 36,
+    "maxPiecesOnDish": 3
+  },
+  {
+    "name": "黃椒片",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 1
+      },
+      {
+        "flavor": "鹹",
+        "amount": 1
+      },
+      {
+        "flavor": "苦",
+        "amount": 3
+      }
+    ],
+    "powers": [
+      {
+        "type": "捕獲點",
+        "amount": 4
+      },
+      {
+        "type": "團戰點",
+        "amount": -1
+      },
+      {
+        "type": "遭遇點",
+        "amount": 7
+      }
+    ],
+    "types": [
+      {
+        "type": "電",
+        "amount": 6
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/yellowbellpepper.png",
+    "pieces": 3,
+    "id": 12,
+    "maxPiecesOnDish": 6
+  }
+]

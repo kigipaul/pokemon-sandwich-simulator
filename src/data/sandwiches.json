@@ -1,0 +1,6953 @@
+[
+  {
+    "number": "-1",
+    "name": "Hidden Recipe 1",
+    "description": "A recipe that produces no effects.  It is hidden from the user, but can still be made in-game.",
+    "fillings": [
+      "煎辣香腸"
+    ],
+    "condiments": [
+      "鹽",
+      "胡椒"
+    ],
+    "effects": [],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/1.jpg",
+    "location": "Unavailable",
+    "rawEffectValues": {
+      "powers": {},
+      "types": {}
+    }
+  },
+  {
+    "number": "0",
+    "name": "Hidden Recipe 2",
+    "description": "A recipe that produces no effects.  It is hidden from the user, and cannot be made in-game.",
+    "fillings": [
+      "番茄片",
+      "番茄片"
+    ],
+    "condiments": [],
+    "effects": [],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/1.jpg",
+    "location": "Unavailable",
+    "rawEffectValues": {
+      "powers": {},
+      "types": {}
+    }
+  },
+  {
+    "number": "1",
+    "name": "莓果醬bon-Beurre",
+    "description": "A sandwich with just ham and butter in it. So simple that there's no way to fake it.",
+    "fillings": [
+      "火腿片"
+    ],
+    "condiments": [
+      "奶油"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "地面",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/1.jpg",
+    "location": "Start",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "團戰力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "地面": 90,
+        "蟲": 80,
+        "幽靈": 85
+      }
+    }
+  },
+  {
+    "number": "2",
+    "name": "苦 莓果醬bon-Beurre",
+    "description": "A 莓果醬bon-Beurre with a bitter twist. If you love a touch of bitterness, you'll want to eat this.",
+    "fillings": [
+      "火腿片"
+    ],
+    "condiments": [
+      "奶油",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/2.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "地面": 190,
+        "蟲": 180,
+        "幽靈": 185
+      }
+    }
+  },
+  {
+    "number": "3",
+    "name": "甜 莓果醬bon-Beurre",
+    "description": "A 莓果醬bon-Beurre with a sweet twist. Seeking the finest sweetness around? Look no further.",
+    "fillings": [
+      "火腿片"
+    ],
+    "condiments": [
+      "奶油",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/3.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "地面": 190,
+        "蟲": 180,
+        "幽靈": 185
+      }
+    }
+  },
+  {
+    "number": "4",
+    "name": "酸 莓果醬bon-Beurre",
+    "description": "A 莓果醬bon-Beurre with a salty twist. Packs a delicious salty punch.",
+    "fillings": [
+      "火腿片"
+    ],
+    "condiments": [
+      "奶油",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "蟲",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/4.jpg",
+    "location": "From man in Sandwich Shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "地面": 190,
+        "蟲": 180,
+        "幽靈": 185
+      }
+    }
+  },
+  {
+    "number": "5",
+    "name": "鹹 莓果醬bon-Beurre",
+    "description": "A 莓果醬bon-Beurre with a sour twist. Its vivid acidic notes will leave you wanting another.",
+    "fillings": [
+      "火腿片"
+    ],
+    "condiments": [
+      "奶油",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/5.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "小小力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "地面": 190,
+        "蟲": 180,
+        "幽靈": 185
+      }
+    }
+  },
+  {
+    "number": "6",
+    "name": "Spicy 莓果醬bon-Beurre",
+    "description": "A 莓果醬bon-Beurre with a spicy twist. If you like a sandwich with some kick to it, don't miss this.",
+    "fillings": [
+      "火腿片"
+    ],
+    "condiments": [
+      "奶油",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/6.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "大大點 Power": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "地面": 190,
+        "蟲": 180,
+        "幽靈": 185
+      }
+    }
+  },
+  {
+    "number": "7",
+    "name": "Legendary 苦 Sandwich",
+    "description": "A sandwich known as the ultimate in bitter taste. The herbs should be laid on thick.",
+    "fillings": [
+      "生菜",
+      "煎培根"
+    ],
+    "condiments": [
+      "秘傳: 苦味料",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/7.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "岩": 190,
+        "草": 180,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "8",
+    "name": "Legendary 酸 Sandwich",
+    "description": "A sandwich for the true salt aficionado. When eating this, make absolutely certain to have a drink at hand.",
+    "fillings": [
+      "生菜",
+      "煎培根"
+    ],
+    "condiments": [
+      "酸 Herba Mystica",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/8.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "岩": 190,
+        "草": 180,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "9",
+    "name": "Legendary 甜 Sandwich",
+    "description": "A sandwich so sweet it's downright frightening. The trick is to really pile on the herbs.",
+    "fillings": [
+      "生菜",
+      "煎培根"
+    ],
+    "condiments": [
+      "秘傳: 甜味料",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/9.jpg",
+    "location": "From man in Sandwich Shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "岩": 190,
+        "草": 180,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "10",
+    "name": "Legendary 鹹 Sandwich",
+    "description": "A sandwich devoted to true fans of sour flavors. The fresher the herbs, the more potent the sourness.",
+    "fillings": [
+      "生菜",
+      "煎培根"
+    ],
+    "condiments": [
+      "秘傳: 酸味料",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/10.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "小小力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "岩": 190,
+        "草": 180,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "11",
+    "name": "Legendary Spicy Sandwich",
+    "description": "A sandwich so spicy it practically assaults the tongue. Dislikers of spicy food, beware.",
+    "fillings": [
+      "生菜",
+      "煎培根"
+    ],
+    "condiments": [
+      "秘傳: 辣味料",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/11.jpg",
+    "location": "From man in Sandwich Shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "大大點 Power": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "岩": 190,
+        "草": 180,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "12",
+    "name": "莓果醬 Sandwich",
+    "description": "A sandwich made with only jam and slices of strawberry. The simplicity of this dish is what makes it so appetizing.",
+    "fillings": [
+      "草莓片"
+    ],
+    "condiments": [
+      "莓果醬"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/12.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 90,
+        "掉物力": 85
+      },
+      "types": {
+        "格鬥": 90,
+        "幽靈": 80,
+        "超能力": 85
+      }
+    }
+  },
+  {
+    "number": "13",
+    "name": "Great 莓果醬 Sandwich",
+    "description": "The addition of yogurt has heightened the sweetness and deepened the richness of this sandwich.",
+    "fillings": [
+      "草莓片"
+    ],
+    "condiments": [
+      "莓果醬",
+      "優格"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/13.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 85,
+        "團戰力": 80
+      },
+      "types": {
+        "格鬥": 190,
+        "幽靈": 80,
+        "超能力": 85
+      }
+    }
+  },
+  {
+    "number": "14",
+    "name": "Ultra 莓果醬 Sandwich",
+    "description": "Filling enough to be a meal, tasty enough to be a snack. It's best when you choose the sweetest pineapples.",
+    "fillings": [
+      "草莓片",
+      "鳳梨片"
+    ],
+    "condiments": [
+      "莓果醬",
+      "優格"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/14.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 90,
+        "掉物力": 85
+      },
+      "types": {
+        "格鬥": 80,
+        "地面": 185,
+        "惡": 190
+      }
+    }
+  },
+  {
+    "number": "15",
+    "name": "Master 莓果醬 Sandwich",
+    "description": "A truly perfected sandwich, with the addition of the herbs elevating all the other fillings.",
+    "fillings": [
+      "草莓片",
+      "鳳梨片"
+    ],
+    "condiments": [
+      "莓果醬",
+      "優格",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "格鬥",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/15.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "格鬥": 180,
+        "地面": 185,
+        "惡": 190
+      }
+    }
+  },
+  {
+    "number": "16",
+    "name": "Peanut 奶油 Sandwich",
+    "description": "Peanut butter and bananas make a surprisingly nice pair. They leave you feeling full and satisfied.",
+    "fillings": [
+      "香蕉片"
+    ],
+    "condiments": [
+      "Peanut 奶油"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "電",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/16.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 85,
+        "團戰力": 80
+      },
+      "types": {
+        "一般": 90,
+        "蟲": 80,
+        "電": 85
+      }
+    }
+  },
+  {
+    "number": "17",
+    "name": "Great Peanut 奶油 Sandwich",
+    "description": "Adding butter into the mix has contributed yet more substance, making this one robust sandwich.",
+    "fillings": [
+      "香蕉片"
+    ],
+    "condiments": [
+      "Peanut 奶油",
+      "奶油"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "電",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "一般",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/17.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "經驗力": 80,
+        "團戰力": 85
+      },
+      "types": {
+        "一般": 80,
+        "蟲": 190,
+        "電": 85
+      }
+    }
+  },
+  {
+    "number": "18",
+    "name": "Ultra Peanut 奶油 Sandwich",
+    "description": "The jam adds a new note of sweetness, making this sandwich yet more filling.",
+    "fillings": [
+      "香蕉片"
+    ],
+    "condiments": [
+      "Peanut 奶油",
+      "奶油",
+      "莓果醬"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/18.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 80,
+        "團戰力": 85
+      },
+      "types": {
+        "一般": 185,
+        "蟲": 80,
+        "電": 190
+      }
+    }
+  },
+  {
+    "number": "19",
+    "name": "Master Peanut 奶油 Sandwich",
+    "description": "The daring addition of bold spice has made this sandwich strangely addicting.",
+    "fillings": [
+      "香蕉片"
+    ],
+    "condiments": [
+      "Peanut 奶油",
+      "奶油",
+      "莓果醬",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "蟲",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/19.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "掉物力": 80,
+        "團戰力": 85,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "一般": 185,
+        "蟲": 180,
+        "電": 190
+      }
+    }
+  },
+  {
+    "number": "20",
+    "name": "酸黃瓜片 Sandwich",
+    "description": "This sandwich keeps it profoundly simple. It's best when you don't skimp on the olive oil.",
+    "fillings": [
+      "酸黃瓜片"
+    ],
+    "condiments": [
+      "橄欖油"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/20.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 90,
+        "幽靈": 80,
+        "火": 85
+      }
+    }
+  },
+  {
+    "number": "21",
+    "name": "Great 酸黃瓜片 Sandwich",
+    "description": "The sourness of the pickles pairs with the fresh taste of the watercress for a sandwich as refreshing as a light breeze.",
+    "fillings": [
+      "酸黃瓜片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "橄欖油"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/21.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 190,
+        "幽靈": 80,
+        "火": 85
+      }
+    }
+  },
+  {
+    "number": "22",
+    "name": "Ultra 酸黃瓜片 Sandwich",
+    "description": "The fragrant basil draws out new depths of flavor from this sandwich's fillings.",
+    "fillings": [
+      "酸黃瓜片",
+      "豆瓣菜",
+      "羅勒"
+    ],
+    "condiments": [
+      "橄欖油"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "火",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/22.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 85,
+        "捕獲力": 80,
+        "掉物力": 90
+      },
+      "types": {
+        "格鬥": 190,
+        "火": 80,
+        "草": 185
+      }
+    }
+  },
+  {
+    "number": "23",
+    "name": "Master 酸黃瓜片 Sandwich",
+    "description": "The hit of sourness from the added herbs will leave you wanting more of this simple yet satisfying sandwich.",
+    "fillings": [
+      "酸黃瓜片",
+      "豆瓣菜",
+      "羅勒"
+    ],
+    "condiments": [
+      "橄欖油",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/23.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "稱號點 Power": 90,
+        "小小力": 85
+      },
+      "types": {
+        "格鬥": 190,
+        "火": 180,
+        "草": 185
+      }
+    }
+  },
+  {
+    "number": "24",
+    "name": "橘子醬 Sandwich",
+    "description": "A simple, economical, and tasty sandwich. Toasting it for extra flavor is also good.",
+    "fillings": [
+      "起司片"
+    ],
+    "condiments": [
+      "橘子醬"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "岩",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/24.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 85,
+        "掉物力": 90
+      },
+      "types": {
+        "格鬥": 90,
+        "毒": 80,
+        "岩": 85
+      }
+    }
+  },
+  {
+    "number": "25",
+    "name": "Great 橘子醬 Sandwich",
+    "description": "The sweetness of the butter highlights the sourness. But add too much butter, and you'll spoil the overall flavor.",
+    "fillings": [
+      "起司片"
+    ],
+    "condiments": [
+      "橘子醬",
+      "奶油"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "岩",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/25.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 80,
+        "團戰力": 85
+      },
+      "types": {
+        "格鬥": 190,
+        "毒": 80,
+        "岩": 85
+      }
+    }
+  },
+  {
+    "number": "26",
+    "name": "Ultra 橘子醬 Sandwich",
+    "description": "The stronger the marmalade's sourness, the better. This sandwich is particularly appealing.",
+    "fillings": [
+      "起司片"
+    ],
+    "condiments": [
+      "橘子醬",
+      "奶油",
+      "奶油起司"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "格鬥",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/26.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 85,
+        "團戰力": 80
+      },
+      "types": {
+        "格鬥": 80,
+        "毒": 185,
+        "蟲": 190
+      }
+    }
+  },
+  {
+    "number": "27",
+    "name": "Master 橘子醬 Sandwich",
+    "description": "The finishing touch of saltiness is the clincher. This sandwich's exquisite balance of flavor brings it to life.",
+    "fillings": [
+      "起司片"
+    ],
+    "condiments": [
+      "橘子醬",
+      "奶油",
+      "奶油起司",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "格鬥",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/27.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "掉物力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 180,
+        "毒": 185,
+        "蟲": 190
+      }
+    }
+  },
+  {
+    "number": "28",
+    "name": "Herbed-Sausage Sandwich",
+    "description": "Sausage with fragrant herbs meets ketchup in this sandwich.",
+    "fillings": [
+      "香草香腸"
+    ],
+    "condiments": [
+      "番茄醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/28.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "格鬥": 90,
+        "地面": 80,
+        "幽靈": 85
+      }
+    }
+  },
+  {
+    "number": "29",
+    "name": "Great Herbed-Sausage Sandwich",
+    "description": "The sour bite and spiciness of the mustard takes this sandwich to the next level.",
+    "fillings": [
+      "香草香腸"
+    ],
+    "condiments": [
+      "番茄醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "格鬥",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/29.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "格鬥": 80,
+        "地面": 190,
+        "幽靈": 85
+      }
+    }
+  },
+  {
+    "number": "30",
+    "name": "Ultra Herbed-Sausage Sandwich",
+    "description": "This sandwich boasts fresh vegetables and sausage— a faultless combo.",
+    "fillings": [
+      "香草香腸",
+      "生菜"
+    ],
+    "condiments": [
+      "番茄醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/30.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "團戰力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "格鬥": 80,
+        "地面": 190,
+        "幽靈": 185
+      }
+    }
+  },
+  {
+    "number": "31",
+    "name": "Master Herbed-Sausage Sandwich",
+    "description": "A sandwich with a tried-and-true type of tastiness. The bitter flavor really ties all the fillings together.",
+    "fillings": [
+      "香草香腸",
+      "生菜"
+    ],
+    "condiments": [
+      "番茄醬",
+      "黃芥末醬",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/31.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "一般": 180,
+        "格鬥": 185,
+        "地面": 190
+      }
+    }
+  },
+  {
+    "number": "32",
+    "name": "Curry-and-米飯-Style Sandwich",
+    "description": "A tricky proposition of a sandwich. You might try lightly toasting the curry powder.",
+    "fillings": [
+      "米飯"
+    ],
+    "condiments": [
+      "咖哩粉",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "一般",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "格鬥",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/32.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 90,
+        "格鬥": 80,
+        "火": 85
+      }
+    }
+  },
+  {
+    "number": "33",
+    "name": "Great Curry-and-米飯-Style Sandwich",
+    "description": "The spicy addition has made this sandwich a bit more palatable, but still, it's not necessarily for everyone.",
+    "fillings": [
+      "米飯",
+      "小辣椒"
+    ],
+    "condiments": [
+      "咖哩粉",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "一般",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/33.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "掉物力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 80,
+        "格鬥": 85,
+        "草": 190
+      }
+    }
+  },
+  {
+    "number": "34",
+    "name": "Ultra Curry-and-米飯-Style Sandwich",
+    "description": "With tasty tomatoes, this sandwich is more approachable than ever—and yet it remains an acquired taste.",
+    "fillings": [
+      "米飯",
+      "小辣椒",
+      "番茄片"
+    ],
+    "condiments": [
+      "咖哩粉",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "妖精",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/34.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "掉物力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 185,
+        "草": 190,
+        "妖精": 80
+      }
+    }
+  },
+  {
+    "number": "35",
+    "name": "Master Curry-and-米飯-Style Sandwich",
+    "description": "A sandwich of intense, provocative spiciness. For all the added ingredients, it remains an adventurous choice.",
+    "fillings": [
+      "米飯",
+      "小辣椒",
+      "番茄片"
+    ],
+    "condiments": [
+      "咖哩粉",
+      "美乃滋醬",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "妖精",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/35.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "大大點 Power": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "草": 190,
+        "妖精": 185
+      }
+    }
+  },
+  {
+    "number": "36",
+    "name": "Dessert Sandwich",
+    "description": "This sandwich is just the thing for dessert time. The yogurt is on the sweeter side.",
+    "fillings": [
+      "蘋果片",
+      "蘋果片"
+    ],
+    "condiments": [
+      "優格",
+      "鮮奶油"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "飛行",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "冰",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/36.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 90,
+        "掉物力": 85
+      },
+      "types": {
+        "飛行": 90,
+        "鋼": 80,
+        "冰": 85
+      }
+    }
+  },
+  {
+    "number": "37",
+    "name": "Great Dessert Sandwich",
+    "description": "The addition of vibrant green kiwi makes this sandwich as pleasing to the eye as to the palate.",
+    "fillings": [
+      "蘋果片",
+      "蘋果片",
+      "奇異果片"
+    ],
+    "condiments": [
+      "優格",
+      "鮮奶油"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "冰",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/37.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 90,
+        "掉物力": 85
+      },
+      "types": {
+        "飛行": 190,
+        "鋼": 80,
+        "冰": 85
+      }
+    }
+  },
+  {
+    "number": "38",
+    "name": "Ultra Dessert Sandwich",
+    "description": "A sandwich with a lovely trio of fruits. It's a winner when served slightly chilled.",
+    "fillings": [
+      "蘋果片",
+      "蘋果片",
+      "奇異果片",
+      "草莓片"
+    ],
+    "condiments": [
+      "優格",
+      "鮮奶油"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/38.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 85,
+        "掉物力": 90
+      },
+      "types": {
+        "飛行": 190,
+        "鋼": 80,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "39",
+    "name": "Master Dessert Sandwich",
+    "description": "The Dessert Sandwich's ultimate form. Just a hint of herbs will do the trick.",
+    "fillings": [
+      "蘋果片",
+      "蘋果片",
+      "奇異果片",
+      "草莓片"
+    ],
+    "condiments": [
+      "優格",
+      "鮮奶油",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "格鬥",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/39.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 85,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "格鬥": 180,
+        "飛行": 190,
+        "毒": 185
+      }
+    }
+  },
+  {
+    "number": "40",
+    "name": "Tropical Sandwich",
+    "description": "The balance of acidity and umami is key. A touch of extra marmalade is the trick to making it special.",
+    "fillings": [
+      "毛岸蟹棒",
+      "酪梨"
+    ],
+    "condiments": [
+      "橘子醬"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/40.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "捕獲力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 85,
+        "冰": 90,
+        "龍": 80
+      }
+    }
+  },
+  {
+    "number": "41",
+    "name": "Great Tropical Sandwich",
+    "description": "The pineapple unlocks the tropical atmosphere. The more the sourness comes through, the tastier the sandwich.",
+    "fillings": [
+      "毛岸蟹棒",
+      "酪梨",
+      "鳳梨片"
+    ],
+    "condiments": [
+      "橘子醬"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "水",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/41.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "地面": 190,
+        "水": 80,
+        "惡": 85
+      }
+    }
+  },
+  {
+    "number": "42",
+    "name": "Ultra Tropical Sandwich",
+    "description": "A sandwich with an unfamiliar twist. The added spiciness brings depth to the flavors.",
+    "fillings": [
+      "毛岸蟹棒",
+      "酪梨",
+      "鳳梨片",
+      "小辣椒"
+    ],
+    "condiments": [
+      "橘子醬"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "水",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/42.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "地面": 80,
+        "岩": 190,
+        "水": 185
+      }
+    }
+  },
+  {
+    "number": "43",
+    "name": "Master Tropical Sandwich",
+    "description": "A sandwich befitting the “tropical” label. The herbs bring the flavors into tight unison.",
+    "fillings": [
+      "毛岸蟹棒",
+      "酪梨",
+      "鳳梨片",
+      "小辣椒"
+    ],
+    "condiments": [
+      "橘子醬",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "水",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "地面",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/43.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "地面": 180,
+        "岩": 190,
+        "水": 185
+      }
+    }
+  },
+  {
+    "number": "44",
+    "name": "酪梨 Sandwich",
+    "description": "The flavor of this sandwich changes depending on the ripeness of the avocado. One never tires of eating this one.",
+    "fillings": [
+      "酪梨",
+      "煙燻魚片"
+    ],
+    "condiments": [
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "龍",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "電",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/44.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "電": 85,
+        "龍": 90,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "45",
+    "name": "Great 酪梨 Sandwich",
+    "description": "A sandwich with a firm flavor profile. With fillings so widely beloved, it's a sure hit.",
+    "fillings": [
+      "酪梨",
+      "煙燻魚片",
+      "番茄片"
+    ],
+    "condiments": [
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "妖精",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/45.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "經驗力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "龍": 190,
+        "惡": 80,
+        "妖精": 85
+      }
+    }
+  },
+  {
+    "number": "46",
+    "name": "Ultra 酪梨 Sandwich",
+    "description": "A solidly delicious sandwich. It's impossible to go wrong with these fillings—this is flavor you can depend on.",
+    "fillings": [
+      "酪梨",
+      "煙燻魚片",
+      "番茄片",
+      "生菜"
+    ],
+    "condiments": [
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/46.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "草": 190,
+        "龍": 80,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "47",
+    "name": "Master 酪梨 Sandwich",
+    "description": "The steadfast sandwich in its ultimate form. The salt works its magic, making for a profoundly tasty sandwich.",
+    "fillings": [
+      "酪梨",
+      "煙燻魚片",
+      "番茄片",
+      "生菜"
+    ],
+    "condiments": [
+      "鹽",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/47.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "草": 190,
+        "龍": 180,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "48",
+    "name": "Noodle Sandwich",
+    "description": "When exactly did this sandwich rise to fame? Where did the recipe even come from? Mysteries abound.",
+    "fillings": [
+      "麵條"
+    ],
+    "condiments": [
+      "橄欖油",
+      "番茄醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "毒",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "岩",
+        "level": "1"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/48.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 85,
+        "大大點 Power": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "毒": 90,
+        "地面": 80,
+        "岩": 85
+      }
+    }
+  },
+  {
+    "number": "49",
+    "name": "Great Noodle Sandwich",
+    "description": "A nice, filling sandwich. The addition of lettuce makes it more approachable.",
+    "fillings": [
+      "麵條",
+      "生菜"
+    ],
+    "condiments": [
+      "橄欖油",
+      "番茄醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "岩",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/49.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "大大點 Power": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "毒": 190,
+        "地面": 80,
+        "岩": 85
+      }
+    }
+  },
+  {
+    "number": "50",
+    "name": "Ultra Noodle Sandwich",
+    "description": "This sandwich will fill you up like few others do. The richness of the chorizo works wonders.",
+    "fillings": [
+      "麵條",
+      "生菜",
+      "煎辣香腸"
+    ],
+    "condiments": [
+      "橄欖油",
+      "番茄醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "火",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "電",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/50.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "大大點 Power": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "毒": 190,
+        "火": 185,
+        "電": 80
+      }
+    }
+  },
+  {
+    "number": "51",
+    "name": "Master Noodle Sandwich",
+    "description": "The touch of bitterness tugs at the appetite. This is one solid, substantial sandwich.",
+    "fillings": [
+      "麵條",
+      "生菜",
+      "煎辣香腸"
+    ],
+    "condiments": [
+      "橄欖油",
+      "番茄醬",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/51.jpg",
+    "location": "From man in Sandwich shop if you have Bitty Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "毒": 190,
+        "電": 185
+      }
+    }
+  },
+  {
+    "number": "52",
+    "name": "馬鈴薯沙拉 Sandwich",
+    "description": "A veggie-forward, filling sandwich. How tasty it ends up being depends entirely on the quality of the potato salad.",
+    "fillings": [
+      "馬鈴薯沙拉",
+      "小黃瓜片",
+      "紅椒片"
+    ],
+    "condiments": [
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "鋼",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/52.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "蟲": 90,
+        "幽靈": 80,
+        "鋼": 85
+      }
+    }
+  },
+  {
+    "number": "53",
+    "name": "Great 馬鈴薯沙拉 Sandwich",
+    "description": "The veggies are the star players of this satisfying sandwich. Tasty even if the avocado is still a tad firm.",
+    "fillings": [
+      "馬鈴薯沙拉",
+      "小黃瓜片",
+      "紅椒片",
+      "酪梨"
+    ],
+    "condiments": [
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/53.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "大大點 Power": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "蟲": 80,
+        "幽靈": 85,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "54",
+    "name": "Ultra 馬鈴薯沙拉 Sandwich",
+    "description": "A sandwich boasting a plethora of different vegetables. Connoisseurs prefer generous amounts of seasoning.",
+    "fillings": [
+      "馬鈴薯沙拉",
+      "小黃瓜片",
+      "紅椒片",
+      "酪梨",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/54.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "大大點 Power": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "蟲": 185,
+        "幽靈": 190,
+        "龍": 80
+      }
+    }
+  },
+  {
+    "number": "55",
+    "name": "Master 馬鈴薯沙拉 Sandwich",
+    "description": "The ultimate form of the 馬鈴薯沙拉 Sandwich. The sweetness of the herbs is what will decide its success.",
+    "fillings": [
+      "馬鈴薯沙拉",
+      "小黃瓜片",
+      "紅椒片",
+      "酪梨",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/55.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "幽靈": 190,
+        "龍": 185
+      }
+    }
+  },
+  {
+    "number": "56",
+    "name": "Zesty Sandwich",
+    "description": "The spiciness of the sauce brings the sweetness of the veggies to life in this sandwich.",
+    "fillings": [
+      "小辣椒",
+      "洋蔥片",
+      "香草香腸"
+    ],
+    "condiments": [
+      "辣醬"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "水",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/56.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "大大點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "格鬥": 85,
+        "水": 80,
+        "超能力": 90
+      }
+    }
+  },
+  {
+    "number": "57",
+    "name": "Great Zesty Sandwich",
+    "description": "The bitterness of this sandwich's green bell peppers goes perfectly with the spicy sauce.",
+    "fillings": [
+      "小辣椒",
+      "洋蔥片",
+      "香草香腸",
+      "青椒片"
+    ],
+    "condiments": [
+      "辣醬"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "水",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/57.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 85,
+        "水": 80,
+        "超能力": 190
+      }
+    }
+  },
+  {
+    "number": "58",
+    "name": "Ultra Zesty Sandwich",
+    "description": "A sandwich packing a nice dose of veggies, whose savory sides are brought out by the spicy sauce.",
+    "fillings": [
+      "小辣椒",
+      "洋蔥片",
+      "香草香腸",
+      "青椒片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "辣醬"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "格鬥",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/58.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 80,
+        "地面": 185,
+        "超能力": 190
+      }
+    }
+  },
+  {
+    "number": "59",
+    "name": "Master Zesty Sandwich",
+    "description": "A sandwich with such a fine ratio of spiciness to sourness that you'll just keep reaching for more.",
+    "fillings": [
+      "小辣椒",
+      "洋蔥片",
+      "香草香腸",
+      "青椒片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "辣醬",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/59.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "小小力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "格鬥": 185,
+        "超能力": 190
+      }
+    }
+  },
+  {
+    "number": "60",
+    "name": "蛋蛋點 Sandwich",
+    "description": "A sandwich with pleasingly straightforward flavors. The fundamental taste of the egg gets to shine.",
+    "fillings": [
+      "蛋蛋點",
+      "小黃瓜片"
+    ],
+    "condiments": [
+      "鹽",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "飛行",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "岩",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/60.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "飛行": 90,
+        "岩": 80,
+        "鋼": 85
+      }
+    }
+  },
+  {
+    "number": "61",
+    "name": "Great 蛋蛋點 Sandwich",
+    "description": "The crunch and sweetness of the onion brings out the richness of the egg.",
+    "fillings": [
+      "蛋蛋點",
+      "小黃瓜片",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "鹽",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "岩",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/61.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "飛行": 190,
+        "岩": 80,
+        "鋼": 85
+      }
+    }
+  },
+  {
+    "number": "62",
+    "name": "Ultra 蛋蛋點 Sandwich",
+    "description": "For those who've gotten tired of the plain and simple 蛋蛋點 Sandwich. The egg and the cheese pair beautifully.",
+    "fillings": [
+      "蛋蛋點",
+      "小黃瓜片",
+      "Red 洋蔥片",
+      "起司片"
+    ],
+    "condiments": [
+      "鹽",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "岩",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/62.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "飛行": 190,
+        "岩": 80,
+        "鋼": 185
+      }
+    }
+  },
+  {
+    "number": "63",
+    "name": "Master 蛋蛋點 Sandwich",
+    "description": "The fully realized 蛋蛋點 Sandwich. Robust saltiness is its standout feature.",
+    "fillings": [
+      "蛋蛋點",
+      "小黃瓜片",
+      "Red 洋蔥片",
+      "起司片"
+    ],
+    "condiments": [
+      "鹽",
+      "美乃滋醬",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/63.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 180,
+        "飛行": 190,
+        "岩": 185
+      }
+    }
+  },
+  {
+    "number": "64",
+    "name": "Classic Bocadillo",
+    "description": "A sandwich with potent fillings. Young people in particular appreciate how substantial it is.",
+    "fillings": [
+      "生火腿",
+      "起司片",
+      "煎蛋"
+    ],
+    "condiments": [
+      "橄欖油"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "火",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/64.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "幽靈": 90,
+        "火": 80,
+        "草": 85
+      }
+    }
+  },
+  {
+    "number": "65",
+    "name": "Great Classic Bocadillo",
+    "description": "The spicy flavor gives this sandwich a comforting feel. Especially tasty when the potato tortilla is piping hot.",
+    "fillings": [
+      "生火腿",
+      "起司片",
+      "煎蛋"
+    ],
+    "condiments": [
+      "橄欖油",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/65.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "大大點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "幽靈": 190,
+        "火": 80,
+        "草": 85
+      }
+    }
+  },
+  {
+    "number": "66",
+    "name": "Ultra Classic Bocadillo",
+    "description": "A sandwich that won't leave you hungry. Well-ripened avocados are better for this one.",
+    "fillings": [
+      "生火腿",
+      "起司片",
+      "煎蛋",
+      "酪梨"
+    ],
+    "condiments": [
+      "橄欖油",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "火",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/66.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "大大點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "幽靈": 80,
+        "火": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "67",
+    "name": "Master Classic Bocadillo",
+    "description": "A deeply substantial sandwich. The bitterness brings harmony to the flavors.",
+    "fillings": [
+      "生火腿",
+      "起司片",
+      "煎蛋",
+      "酪梨"
+    ],
+    "condiments": [
+      "橄欖油",
+      "咖哩粉",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/67.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 85,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "一般": 180,
+        "幽靈": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "68",
+    "name": "Refreshing Sandwich",
+    "description": "This sandwich feels like a cousin to a salad. The more tomatoes, the better.",
+    "fillings": [
+      "小番茄塊",
+      "酪梨"
+    ],
+    "condiments": [
+      "橘子醬",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/68.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "團戰力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 85,
+        "蟲": 90,
+        "龍": 80
+      }
+    }
+  },
+  {
+    "number": "69",
+    "name": "Great Refreshing Sandwich",
+    "description": "A fruit-forward sandwich. The kiwi's sourness does it plenty of favors.",
+    "fillings": [
+      "小番茄塊",
+      "酪梨",
+      "奇異果片"
+    ],
+    "condiments": [
+      "橘子醬",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/69.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "毒": 80,
+        "火": 85,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "70",
+    "name": "Ultra Refreshing Sandwich",
+    "description": "This sandwich may only have fruits and veggies in it, but it's tasty no matter how into veggies you are—or aren't.",
+    "fillings": [
+      "小番茄塊",
+      "酪梨",
+      "奇異果片",
+      "酸黃瓜片"
+    ],
+    "condiments": [
+      "橘子醬",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/70.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "格鬥": 185,
+        "毒": 80,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "71",
+    "name": "Master Refreshing Sandwich",
+    "description": "The spicy addition to the sandwich's mostly sour fillings and condiments creates a tantalizing flavor.",
+    "fillings": [
+      "小番茄塊",
+      "酪梨",
+      "奇異果片",
+      "酸黃瓜片"
+    ],
+    "condiments": [
+      "橘子醬",
+      "鹽",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/71.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "大大點 Power": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "毒": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "72",
+    "name": "BLT Sandwich",
+    "description": "A tried and true sandwich. You can't go wrong with these classic, ordinary flavors.",
+    "fillings": [
+      "煎培根",
+      "生菜",
+      "番茄片"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "岩",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "妖精",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/72.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 90,
+        "草": 80,
+        "妖精": 85
+      }
+    }
+  },
+  {
+    "number": "73",
+    "name": "Great BLT Sandwich",
+    "description": "Adding basil lends a bit of a rich air to this BLT Sandwich.",
+    "fillings": [
+      "煎培根",
+      "生菜",
+      "番茄片",
+      "羅勒"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "岩",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "妖精",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/73.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 85,
+        "草": 190,
+        "妖精": 80
+      }
+    }
+  },
+  {
+    "number": "74",
+    "name": "Ultra BLT Sandwich",
+    "description": "The cheese makes for a more filling experience. The flavors of this sandwich are in perfect balance.",
+    "fillings": [
+      "煎培根",
+      "生菜",
+      "番茄片",
+      "羅勒",
+      "起司片"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "妖精",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/74.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 185,
+        "草": 190,
+        "妖精": 80
+      }
+    }
+  },
+  {
+    "number": "75",
+    "name": "Master BLT Sandwich",
+    "description": "The hint of sweetness manages to preserve the harmony between all the fillings of this miraculous sandwich.",
+    "fillings": [
+      "煎培根",
+      "生菜",
+      "番茄片",
+      "羅勒",
+      "起司片"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "妖精",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/75.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "草": 190,
+        "妖精": 185
+      }
+    }
+  },
+  {
+    "number": "76",
+    "name": "炸魚片 Sandwich",
+    "description": "The potato salad plays an important part in counteracting the oiliness of the fried fillet.",
+    "fillings": [
+      "炸魚片",
+      "馬鈴薯沙拉"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "番茄醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "惡",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/76.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "團戰力": 85,
+        "小小力": 90
+      },
+      "types": {
+        "蟲": 90,
+        "鋼": 80,
+        "惡": 85
+      }
+    }
+  },
+  {
+    "number": "77",
+    "name": "Great 炸魚片 Sandwich",
+    "description": "The fresh crunch of the lettuce matches exceptionally well with this sandwich's fried fillet.",
+    "fillings": [
+      "炸魚片",
+      "馬鈴薯沙拉",
+      "生菜"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "番茄醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "惡",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/77.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "團戰力": 85,
+        "小小力": 90
+      },
+      "types": {
+        "蟲": 190,
+        "鋼": 80,
+        "惡": 85
+      }
+    }
+  },
+  {
+    "number": "78",
+    "name": "Ultra 炸魚片 Sandwich",
+    "description": "The horseradish's invigorating spiciness helps make this a very inviting sandwich.",
+    "fillings": [
+      "炸魚片",
+      "馬鈴薯沙拉",
+      "生菜"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "番茄醬",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/78.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 85,
+        "小小力": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "蟲": 190,
+        "鋼": 80,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "79",
+    "name": "Master 炸魚片 Sandwich",
+    "description": "This is the ultimate expression of the 炸魚片 Sandwich. The spicy kick makes it an absolute pleasure.",
+    "fillings": [
+      "炸魚片",
+      "馬鈴薯沙拉",
+      "生菜"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "番茄醬",
+      "辣根",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/79.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "稱號點 Power": 90,
+        "大大點 Power": 85
+      },
+      "types": {
+        "一般": 180,
+        "蟲": 190,
+        "鋼": 185
+      }
+    }
+  },
+  {
+    "number": "80",
+    "name": "火腿片 Sandwich",
+    "description": "This sandwich is the embodiment of cheap and tasty. It tastes best when mayonnaise is applied generously.",
+    "fillings": [
+      "酸黃瓜片",
+      "火腿片"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/80.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 85,
+        "格鬥": 90,
+        "地面": 80
+      }
+    }
+  },
+  {
+    "number": "81",
+    "name": "Great 火腿片 Sandwich",
+    "description": "A sandwich boasting two different types of ham. A little rich, perhaps, but plenty tasty.",
+    "fillings": [
+      "酸黃瓜片",
+      "火腿片",
+      "生火腿"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "飛行",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/81.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "格鬥": 190,
+        "飛行": 85,
+        "地面": 80
+      }
+    }
+  },
+  {
+    "number": "82",
+    "name": "Ultra 火腿片 Sandwich",
+    "description": "The stimulating spiciness of the jalapeño draws out the savoriness of the ham.",
+    "fillings": [
+      "酸黃瓜片",
+      "火腿片",
+      "生火腿",
+      "小辣椒"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "妖精",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/82.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 190,
+        "草": 80,
+        "妖精": 185
+      }
+    }
+  },
+  {
+    "number": "83",
+    "name": "Master 火腿片 Sandwich",
+    "description": "The ultimate 火腿片 Sandwich, with a saltiness that caresses the taste buds. More ham, more happy.",
+    "fillings": [
+      "酸黃瓜片",
+      "火腿片",
+      "生火腿",
+      "小辣椒"
+    ],
+    "condiments": [
+      "美乃滋醬",
+      "黃芥末醬",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "妖精",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/83.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 190,
+        "草": 180,
+        "妖精": 185
+      }
+    }
+  },
+  {
+    "number": "84",
+    "name": "起司片 Sandwich",
+    "description": "A sandwich for the cheese lover. The simple seasonings make this a welcoming bite.",
+    "fillings": [
+      "起司片"
+    ],
+    "condiments": [
+      "奶油起司",
+      "胡椒",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "水",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/84.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "團戰力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "蟲": 90,
+        "鋼": 80,
+        "水": 85
+      }
+    }
+  },
+  {
+    "number": "85",
+    "name": "Great 起司片 Sandwich",
+    "description": "A sandwich that will certainly fill you up. It's tastiest when the avocado is just a tad firm.",
+    "fillings": [
+      "起司片",
+      "酪梨"
+    ],
+    "condiments": [
+      "奶油起司",
+      "胡椒",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "鋼",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/85.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "團戰力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "蟲": 80,
+        "鋼": 85,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "86",
+    "name": "Ultra 起司片 Sandwich",
+    "description": "The fragrance of the basil in this sandwich activates the appetite. Using plenty of pepper balances the flavors well.",
+    "fillings": [
+      "起司片",
+      "酪梨",
+      "羅勒"
+    ],
+    "condiments": [
+      "奶油起司",
+      "胡椒",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "水",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/86.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "團戰力": 85
+      },
+      "types": {
+        "水": 80,
+        "電": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "87",
+    "name": "Master 起司片 Sandwich",
+    "description": "The strong note of salt in this sandwich makes the richness and savoriness of the cheese shine through.",
+    "fillings": [
+      "起司片",
+      "酪梨",
+      "羅勒"
+    ],
+    "condiments": [
+      "奶油起司",
+      "胡椒",
+      "鹽",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "水",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/87.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "水": 180,
+        "電": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "88",
+    "name": "漢堡排 Patty Sandwich",
+    "description": "The hamburger patty is the heart and soul of this sandwich, but the vinegar's acidic note is what sets it apart.",
+    "fillings": [
+      "漢堡排",
+      "洋蔥片"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/88.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "鋼": 80,
+        "超能力": 90,
+        "龍": 85
+      }
+    }
+  },
+  {
+    "number": "89",
+    "name": "Great 漢堡排 Patty Sandwich",
+    "description": "The hamburger patty is the heart and soul of this sandwich, but the horseradish's spicy kick is what sets it apart.",
+    "fillings": [
+      "漢堡排",
+      "洋蔥片"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/89.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "鋼": 80,
+        "超能力": 190,
+        "龍": 85
+      }
+    }
+  },
+  {
+    "number": "90",
+    "name": "Ultra 漢堡排 Patty Sandwich",
+    "description": "The hamburger patty is the heart and soul of this sandwich, but the watercress's bitter taste is what sets it apart.",
+    "fillings": [
+      "漢堡排",
+      "洋蔥片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/90.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "大大點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "鋼": 80,
+        "超能力": 190,
+        "龍": 185
+      }
+    }
+  },
+  {
+    "number": "91",
+    "name": "Master 漢堡排 Patty Sandwich",
+    "description": "The hamburger patty is the heart and soul of this sandwich, but the herbs' sweetness is what sets it apart.",
+    "fillings": [
+      "漢堡排",
+      "洋蔥片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "辣根",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "鋼",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/91.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "鋼": 180,
+        "超能力": 190,
+        "龍": 185
+      }
+    }
+  },
+  {
+    "number": "92",
+    "name": "Smoky Sandwich",
+    "description": "A sandwich with a sophisticated flavor. Nailing the balance between the condiments is crucial.",
+    "fillings": [
+      "煙燻魚片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "惡",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "龍",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "超能力",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/92.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "團戰力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "超能力": 80,
+        "龍": 85,
+        "惡": 90
+      }
+    }
+  },
+  {
+    "number": "93",
+    "name": "Great Smoky Sandwich",
+    "description": "A sandwich with a refreshing flavor. It's tastier if you don't go overboard on the vegetables.",
+    "fillings": [
+      "煙燻魚片",
+      "豆瓣菜",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/93.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "團戰力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "幽靈": 190,
+        "超能力": 85,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "94",
+    "name": "Ultra Smoky Sandwich",
+    "description": "A sandwich with a refined flavor. The fragrant basil goes well with the smoked fillet.",
+    "fillings": [
+      "煙燻魚片",
+      "豆瓣菜",
+      "Red 洋蔥片",
+      "羅勒"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/94.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "團戰力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "幽靈": 80,
+        "超能力": 185,
+        "惡": 190
+      }
+    }
+  },
+  {
+    "number": "95",
+    "name": "Master Smoky Sandwich",
+    "description": "This sandwich is rumored in some circles to unequivocally be the best way to eat smoked fillet.",
+    "fillings": [
+      "煙燻魚片",
+      "豆瓣菜",
+      "Red 洋蔥片",
+      "羅勒"
+    ],
+    "condiments": [
+      "醋",
+      "胡椒",
+      "鹽",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "超能力",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "幽靈",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/95.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "幽靈": 180,
+        "超能力": 185,
+        "惡": 190
+      }
+    }
+  },
+  {
+    "number": "96",
+    "name": "Fruit Sandwich",
+    "description": "Full of fruit. The sophisticated approach is to go easy on the cream and let the ingredients speak for themselves.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "鳳梨片",
+      "奇異果片"
+    ],
+    "condiments": [
+      "鮮奶油"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "一般",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "地面",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/96.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 85,
+        "掉物力": 90
+      },
+      "types": {
+        "一般": 90,
+        "飛行": 80,
+        "地面": 85
+      }
+    }
+  },
+  {
+    "number": "97",
+    "name": "Great Fruit Sandwich",
+    "description": "This sandwich feels akin to a treat. Just a hint of marmalade is ideal.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "鳳梨片",
+      "奇異果片"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "橘子醬"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "毒",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/97.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 85,
+        "掉物力": 90
+      },
+      "types": {
+        "一般": 190,
+        "飛行": 80,
+        "毒": 85
+      }
+    }
+  },
+  {
+    "number": "98",
+    "name": "Ultra Fruit Sandwich",
+    "description": "This sandwich feels quite dessert-like. It's best when you don't go overboard on the yogurt.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "鳳梨片",
+      "奇異果片"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "橘子醬",
+      "優格"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/98.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 80,
+        "捕獲力": 85,
+        "掉物力": 90
+      },
+      "types": {
+        "一般": 190,
+        "飛行": 80,
+        "毒": 185
+      }
+    }
+  },
+  {
+    "number": "99",
+    "name": "Master Fruit Sandwich",
+    "description": "A sandwich whose flavors positively sing. It's best when you don't go overboard on the herbs.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "鳳梨片",
+      "奇異果片"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "橘子醬",
+      "優格",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "飛行",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/99.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 85,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "一般": 190,
+        "飛行": 180,
+        "毒": 185
+      }
+    }
+  },
+  {
+    "number": "100",
+    "name": "Variety Sandwich",
+    "description": "A sandwich with a range of flavors to enjoy. The fillings can be in whatever proportions you like.",
+    "fillings": [
+      "生火腿",
+      "小番茄塊",
+      "煙燻魚片"
+    ],
+    "condiments": [
+      "鹽",
+      "醋"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "飛行",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/100.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "飛行": 90,
+        "蟲": 80,
+        "惡": 85
+      }
+    }
+  },
+  {
+    "number": "101",
+    "name": "Great Variety Sandwich",
+    "description": "A sandwich popular with younger folks. The potato salad leaves you pleasantly full.",
+    "fillings": [
+      "生火腿",
+      "小番茄塊",
+      "煙燻魚片",
+      "馬鈴薯沙拉"
+    ],
+    "condiments": [
+      "鹽",
+      "醋"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "龍",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/101.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "蟲": 190,
+        "龍": 85,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "102",
+    "name": "Ultra Variety Sandwich",
+    "description": "The addition of hamburger brings more heft. Younger folks tend to like this with plenty of condiments.",
+    "fillings": [
+      "生火腿",
+      "小番茄塊",
+      "煙燻魚片",
+      "馬鈴薯沙拉",
+      "漢堡排"
+    ],
+    "condiments": [
+      "鹽",
+      "醋"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "鋼",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/102.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "大大點 Power": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "蟲": 190,
+        "鋼": 80,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "103",
+    "name": "Master Variety Sandwich",
+    "description": "A connoisseur's sandwich, with the fillings tied together by a supreme note of bitterness.",
+    "fillings": [
+      "生火腿",
+      "小番茄塊",
+      "煙燻魚片",
+      "馬鈴薯沙拉",
+      "漢堡排"
+    ],
+    "condiments": [
+      "鹽",
+      "醋",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/103.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "蟲": 190,
+        "鋼": 185
+      }
+    }
+  },
+  {
+    "number": "104",
+    "name": "Klawf Claw Sandwich",
+    "description": "A sandwich that fills you up well without being too heavy. Ideal for those in search of a light meal.",
+    "fillings": [
+      "毛岸蟹棒",
+      "番茄片",
+      "生菜"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "妖精",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "冰",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/104.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "草": 90,
+        "冰": 80,
+        "妖精": 85
+      }
+    }
+  },
+  {
+    "number": "105",
+    "name": "Great Klawf Claw Sandwich",
+    "description": "A sandwich for the somewhat mature palate, with an addictively spicy note from the sauce.",
+    "fillings": [
+      "毛岸蟹棒",
+      "番茄片",
+      "生菜"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "妖精",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "冰",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/105.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "草": 190,
+        "冰": 80,
+        "妖精": 85
+      }
+    }
+  },
+  {
+    "number": "106",
+    "name": "Ultra Klawf Claw Sandwich",
+    "description": "A sandwich that spares no detail. The crunch of the bell pepper provides a lovely accent.",
+    "fillings": [
+      "毛岸蟹棒",
+      "番茄片",
+      "生菜",
+      "黃椒片"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "電",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/106.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "草": 190,
+        "電": 80,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "107",
+    "name": "Master Klawf Claw Sandwich",
+    "description": "This sandwich's savory flavors stand out even more boldly thanks to the boost of spiciness.",
+    "fillings": [
+      "毛岸蟹棒",
+      "番茄片",
+      "生菜",
+      "黃椒片"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "芥末粉",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "電",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/107.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "大大點 Power": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "草": 190,
+        "電": 180,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "108",
+    "name": "甜 Sandwich",
+    "description": "It's a close cousin to the Fruit Sandwich, but the butter sets this one apart.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "起司片"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "奶油"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "飛行",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/108.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 85,
+        "團戰力": 80
+      },
+      "types": {
+        "一般": 90,
+        "飛行": 80,
+        "蟲": 85
+      }
+    }
+  },
+  {
+    "number": "109",
+    "name": "Great 甜 Sandwich",
+    "description": "The pinch of salt serves to tease out the sweetness of this sandwich's fillings.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "起司片"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "奶油",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "飛行",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/109.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 85,
+        "團戰力": 80
+      },
+      "types": {
+        "一般": 190,
+        "飛行": 80,
+        "蟲": 85
+      }
+    }
+  },
+  {
+    "number": "110",
+    "name": "Ultra 甜 Sandwich",
+    "description": "The basil's light touch of bitter flavor helps bring this sandwich's other fillings to life.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "起司片",
+      "羅勒"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "奶油",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "飛行",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/110.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 90,
+        "掉物力": 85,
+        "團戰力": 80
+      },
+      "types": {
+        "一般": 80,
+        "飛行": 185,
+        "電": 190
+      }
+    }
+  },
+  {
+    "number": "111",
+    "name": "Master 甜 Sandwich",
+    "description": "A sandwich with a subtle note of sourness. The slightest amount of herbs is all that's needed.",
+    "fillings": [
+      "香蕉片",
+      "蘋果片",
+      "起司片",
+      "羅勒"
+    ],
+    "condiments": [
+      "鮮奶油",
+      "奶油",
+      "鹽",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "格鬥",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/111.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "掉物力": 80,
+        "稱號點 Power": 90
+      },
+      "types": {
+        "一般": 185,
+        "格鬥": 180,
+        "電": 190
+      }
+    }
+  },
+  {
+    "number": "112",
+    "name": "Vegetable Sandwich",
+    "description": "A juicy, vegetable-laden sandwich. The fresher the veggies, the tastier the dish.",
+    "fillings": [
+      "青椒片",
+      "小番茄塊",
+      "小黃瓜片"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "醋"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "毒",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "水",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/112.jpg",
+    "location": "From your mother in Cabo Poco",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "毒": 90,
+        "蟲": 80,
+        "水": 85
+      }
+    }
+  },
+  {
+    "number": "113",
+    "name": "Great Vegetable Sandwich",
+    "description": "A sandwich featuring an all-veggie lineup of fillings. The condiments play a major role in the overall flavor.",
+    "fillings": [
+      "青椒片",
+      "小番茄塊",
+      "小黃瓜片",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "醋"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/113.jpg",
+    "location": "From your mother in Cabo Poco",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "毒": 80,
+        "蟲": 85,
+        "幽靈": 190
+      }
+    }
+  },
+  {
+    "number": "114",
+    "name": "Ultra Vegetable Sandwich",
+    "description": "Veggies are this sandwich's bread and butter, so to speak. Adding plenty of watercress firms up the flavor.",
+    "fillings": [
+      "青椒片",
+      "小番茄塊",
+      "小黃瓜片",
+      "Red 洋蔥片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "醋"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/114.jpg",
+    "location": "From your mother in Cabo Poco",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "毒": 80,
+        "蟲": 185,
+        "幽靈": 190
+      }
+    }
+  },
+  {
+    "number": "115",
+    "name": "Master Vegetable Sandwich",
+    "description": "The fully realized all-veggie sandwich. The overall quality depends hugely on how thickly you lay on the herbs.",
+    "fillings": [
+      "青椒片",
+      "小番茄塊",
+      "小黃瓜片",
+      "Red 洋蔥片",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "鹽",
+      "橄欖油",
+      "醋",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "蟲",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "毒",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/115.jpg",
+    "location": "From your mother in Cabo Poco if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "毒": 180,
+        "蟲": 185,
+        "幽靈": 190
+      }
+    }
+  },
+  {
+    "number": "116",
+    "name": "Hefty Sandwich",
+    "description": "A sandwich that only has time for the ingredients that'll fill you up the best.",
+    "fillings": [
+      "煎蛋",
+      "炸魚片",
+      "生火腿",
+      "馬鈴薯沙拉"
+    ],
+    "condiments": [
+      "鹽",
+      "Peanut 奶油"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "鋼",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "蟲",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/116.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "團戰力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "蟲": 80,
+        "幽靈": 85,
+        "鋼": 90
+      }
+    }
+  },
+  {
+    "number": "117",
+    "name": "Great Hefty Sandwich",
+    "description": "A sandwich whose main goal is filling up the tummy. Flavor is nice, but quantity is the main concern.",
+    "fillings": [
+      "煎蛋",
+      "炸魚片",
+      "生火腿",
+      "馬鈴薯沙拉",
+      "香草香腸"
+    ],
+    "condiments": [
+      "鹽",
+      "Peanut 奶油"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/117.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "團戰力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "幽靈": 190,
+        "超能力": 85,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "118",
+    "name": "Ultra Hefty Sandwich",
+    "description": "A sandwich devoted to the cause of filling up the tummy. Eaters should know what they're getting into.",
+    "fillings": [
+      "煎蛋",
+      "炸魚片",
+      "生火腿",
+      "馬鈴薯沙拉",
+      "香草香腸",
+      "漢堡排"
+    ],
+    "condiments": [
+      "鹽",
+      "Peanut 奶油"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/118.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "團戰力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "幽靈": 190,
+        "鋼": 185,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "119",
+    "name": "Master Hefty Sandwich",
+    "description": "A bright acidic note makes this sandwich a pleasure to eat, though it doesn't change the impact of the sheer volume.",
+    "fillings": [
+      "煎蛋",
+      "炸魚片",
+      "生火腿",
+      "馬鈴薯沙拉",
+      "香草香腸",
+      "漢堡排"
+    ],
+    "condiments": [
+      "鹽",
+      "Peanut 奶油",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/119.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 酸味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "稱號點 Power": 90,
+        "小小力": 85
+      },
+      "types": {
+        "一般": 180,
+        "幽靈": 190,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "120",
+    "name": "Five-Alarm Sandwich",
+    "description": "As the name suggests, this sandwich packs a bit of heat. Enjoying these veggies is a mark of grown-up taste.",
+    "fillings": [
+      "煎辣香腸",
+      "洋蔥片",
+      "青椒片"
+    ],
+    "condiments": [
+      "黃芥末醬",
+      "辣醬",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "毒",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "一般",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/120.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 85,
+        "團戰力": 80,
+        "大大點 Power": 90
+      },
+      "types": {
+        "一般": 85,
+        "毒": 90,
+        "龍": 80
+      }
+    }
+  },
+  {
+    "number": "121",
+    "name": "Great Five-Alarm Sandwich",
+    "description": "Achieving proper balance between the condiments is delicate work. The fragrance of basil whets the appetite.",
+    "fillings": [
+      "煎辣香腸",
+      "洋蔥片",
+      "青椒片",
+      "羅勒"
+    ],
+    "condiments": [
+      "黃芥末醬",
+      "辣醬",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "經驗力",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/121.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "團戰力": 85,
+        "大大點 Power": 90
+      },
+      "types": {
+        "毒": 190,
+        "火": 85,
+        "龍": 80
+      }
+    }
+  },
+  {
+    "number": "122",
+    "name": "Ultra Five-Alarm Sandwich",
+    "description": "This sandwich has become yet spicier and more appealing to grown-up tastes. It's not necessarily for everyone.",
+    "fillings": [
+      "煎辣香腸",
+      "洋蔥片",
+      "青椒片",
+      "羅勒",
+      "小辣椒"
+    ],
+    "condiments": [
+      "黃芥末醬",
+      "辣醬",
+      "胡椒"
+    ],
+    "effects": [
+      {
+        "name": "大大點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "火",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "龍",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/122.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "團戰力": 85,
+        "大大點 Power": 90
+      },
+      "types": {
+        "毒": 190,
+        "火": 185,
+        "龍": 80
+      }
+    }
+  },
+  {
+    "number": "123",
+    "name": "Master Five-Alarm Sandwich",
+    "description": "This sandwich is spicy to the core. If you're not seeking such stimulation, it may not be for you.",
+    "fillings": [
+      "煎辣香腸",
+      "洋蔥片",
+      "青椒片",
+      "羅勒",
+      "小辣椒"
+    ],
+    "condiments": [
+      "黃芥末醬",
+      "辣醬",
+      "胡椒",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/123.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "團戰力": 80,
+        "稱號點 Power": 90,
+        "大大點 Power": 85
+      },
+      "types": {
+        "一般": 180,
+        "毒": 190,
+        "龍": 185
+      }
+    }
+  },
+  {
+    "number": "124",
+    "name": "Nouveau Veggie Sandwich",
+    "description": "A vegetable-centric sandwich whose sauce delivers a particular shocking kick.",
+    "fillings": [
+      "豆瓣菜",
+      "黃椒片",
+      "洋蔥片",
+      "番茄片"
+    ],
+    "condiments": [
+      "橄欖油",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "電",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "妖精",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "超能力",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/124.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "電": 90,
+        "超能力": 80,
+        "妖精": 85
+      }
+    }
+  },
+  {
+    "number": "125",
+    "name": "Great Nouveau Veggie Sandwich",
+    "description": "This sandwich boasts an all-star vegetable cast. It's best to eat it immediately after the cucumber has been added.",
+    "fillings": [
+      "豆瓣菜",
+      "黃椒片",
+      "洋蔥片",
+      "番茄片",
+      "小黃瓜片"
+    ],
+    "condiments": [
+      "橄欖油",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "妖精",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "超能力",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/125.jpg",
+    "location": "From your mother in Cabo Poco",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "電": 190,
+        "超能力": 80,
+        "妖精": 85
+      }
+    }
+  },
+  {
+    "number": "126",
+    "name": "Ultra Nouveau Veggie Sandwich",
+    "description": "A sandwich one can proudly offer to a veggie lover. Use just enough mayonnaise to provide a little flavor accent.",
+    "fillings": [
+      "豆瓣菜",
+      "黃椒片",
+      "洋蔥片",
+      "番茄片",
+      "小黃瓜片"
+    ],
+    "condiments": [
+      "橄欖油",
+      "芥末粉",
+      "美乃滋醬"
+    ],
+    "effects": [
+      {
+        "name": "小小力",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "妖精",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "超能力",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/126.jpg",
+    "location": "From your mother in Cabo Poco",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "小小力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "電": 190,
+        "超能力": 80,
+        "妖精": 185
+      }
+    }
+  },
+  {
+    "number": "127",
+    "name": "Master Nouveau Veggie Sandwich",
+    "description": "Veggies are this sandwich's sole purpose. Adding a touch of sweet makes the veggies' natural savoriness stand out.",
+    "fillings": [
+      "豆瓣菜",
+      "黃椒片",
+      "洋蔥片",
+      "番茄片",
+      "小黃瓜片"
+    ],
+    "condiments": [
+      "橄欖油",
+      "芥末粉",
+      "美乃滋醬",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "電",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "妖精",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "超能力",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/127.jpg",
+    "location": "From your mother in Cabo Poco if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "電": 190,
+        "超能力": 180,
+        "妖精": 185
+      }
+    }
+  },
+  {
+    "number": "128",
+    "name": "Spicy-甜 Sandwich",
+    "description": "A sandwich that pairs the sweetness of butter with the spicy kick of horseradish.",
+    "fillings": [
+      "漢堡排",
+      "番茄片",
+      "奇異果片",
+      "鳳梨片"
+    ],
+    "condiments": [
+      "奶油",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "毒",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "地面",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/128.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "毒": 90,
+        "地面": 80,
+        "火": 85
+      }
+    }
+  },
+  {
+    "number": "129",
+    "name": "Great Spicy-甜 Sandwich",
+    "description": "The richness of the avocado shines in this sandwich. The balance between the fruits is key to making it tasty.",
+    "fillings": [
+      "漢堡排",
+      "番茄片",
+      "奇異果片",
+      "鳳梨片",
+      "酪梨"
+    ],
+    "condiments": [
+      "奶油",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "地面",
+        "level": "1"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/129.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "毒": 80,
+        "地面": 85,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "130",
+    "name": "Ultra Spicy-甜 Sandwich",
+    "description": "This sandwich walks a tightrope between sweet and spicy. Tastiest when the cheese is abundant.",
+    "fillings": [
+      "漢堡排",
+      "番茄片",
+      "奇異果片",
+      "鳳梨片",
+      "酪梨",
+      "起司片"
+    ],
+    "condiments": [
+      "奶油",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "捕獲力",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "地面",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/130.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 90,
+        "掉物力": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "毒": 80,
+        "地面": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "131",
+    "name": "Master Spicy-甜 Sandwich",
+    "description": "The hint of bitterness in this sandwich creates a new harmony between the spicy and sweet flavors.",
+    "fillings": [
+      "漢堡排",
+      "番茄片",
+      "奇異果片",
+      "鳳梨片",
+      "酪梨",
+      "起司片"
+    ],
+    "condiments": [
+      "奶油",
+      "辣根",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "龍",
+        "level": "2"
+      },
+      {
+        "name": "掉物力",
+        "type": "毒",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/131.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "掉物力": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "毒": 185,
+        "龍": 190
+      }
+    }
+  },
+  {
+    "number": "132",
+    "name": "Decadent Sandwich",
+    "description": "This sandwich's fillings speak for themselves—loudly— so it's tastiest when you go light on the condiments.",
+    "fillings": [
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜",
+      "羅勒"
+    ],
+    "condiments": [
+      "醋",
+      "橄欖油",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "冰",
+        "level": "1"
+      },
+      {
+        "name": "團戰力",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/132.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "團戰力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "超能力": 85,
+        "冰": 90,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "133",
+    "name": "Great Decadent Sandwich",
+    "description": "This sandwich uses truly precious and fine ingredients. The tofu lends it more substance.",
+    "fillings": [
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜",
+      "羅勒",
+      "豆腐"
+    ],
+    "condiments": [
+      "醋",
+      "橄欖油",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/133.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 85,
+        "冰": 190,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "134",
+    "name": "Ultra Decadent Sandwich",
+    "description": "Achieving balance between these ingredients is no easy feat. Tastiest when the seasonings are piled on a bit.",
+    "fillings": [
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜",
+      "羅勒",
+      "豆腐",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "醋",
+      "橄欖油",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "冰",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/134.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "幽靈": 190,
+        "冰": 80,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "135",
+    "name": "Master Decadent Sandwich",
+    "description": "Adding the ultimate in spiciness makes this sandwich of distinct, vibrant ingredients into a unified masterpiece.",
+    "fillings": [
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜",
+      "羅勒",
+      "豆腐",
+      "Red 洋蔥片"
+    ],
+    "condiments": [
+      "醋",
+      "橄欖油",
+      "鹽",
+      "秘傳: 辣味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "幽靈",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "冰",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/135.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 辣味料",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "大大點 Power": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "幽靈": 190,
+        "冰": 180,
+        "惡": 185
+      }
+    }
+  },
+  {
+    "number": "136",
+    "name": "豆腐 Sandwich",
+    "description": "A sandwich designed by and for tofu lovers. It will never leave you hungry.",
+    "fillings": [
+      "豆腐",
+      "豆腐",
+      "米飯",
+      "生菜",
+      "酪梨"
+    ],
+    "condiments": [
+      "芥末粉",
+      "鹽"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "1"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/136.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 85,
+        "捕獲力": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "一般": 90,
+        "格鬥": 85,
+        "草": 80
+      }
+    }
+  },
+  {
+    "number": "137",
+    "name": "Great 豆腐 Sandwich",
+    "description": "This sandwich is not the easiest to pull off. Be sure to drain the tofu thoroughly.",
+    "fillings": [
+      "豆腐",
+      "豆腐",
+      "米飯",
+      "生菜",
+      "酪梨"
+    ],
+    "condiments": [
+      "芥末粉",
+      "鹽",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "團戰力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/137.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "團戰力": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "一般": 190,
+        "格鬥": 85,
+        "草": 80
+      }
+    }
+  },
+  {
+    "number": "138",
+    "name": "Ultra 豆腐 Sandwich",
+    "description": "The simple flavor of the tofu and the bitterness of the watercress make for a strangely appealing match.",
+    "fillings": [
+      "豆腐",
+      "豆腐",
+      "米飯",
+      "生菜",
+      "酪梨",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "芥末粉",
+      "鹽",
+      "辣根"
+    ],
+    "effects": [
+      {
+        "name": "團戰力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "草",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/138.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "團戰力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 190,
+        "格鬥": 185,
+        "草": 80
+      }
+    }
+  },
+  {
+    "number": "139",
+    "name": "Master 豆腐 Sandwich",
+    "description": "The precious herbs' saltiness makes the tofu's savory notes shine through.",
+    "fillings": [
+      "豆腐",
+      "豆腐",
+      "米飯",
+      "生菜",
+      "酪梨",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "芥末粉",
+      "鹽",
+      "辣根",
+      "酸 Herba Mystica"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "格鬥",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/139.jpg",
+    "location": "From man in Sandwich shop if you have 酸 Herba Mystica",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 190,
+        "格鬥": 180,
+        "草": 185
+      }
+    }
+  },
+  {
+    "number": "140",
+    "name": "Curry-and-Noodle Sandwich",
+    "description": "While others ask “why?,” this sandwich asks, “why not?” It's best when the curry powder is lightly toasted.",
+    "fillings": [
+      "麵條",
+      "紅椒片",
+      "煎培根",
+      "黃椒片"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "電",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "岩",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/140.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 80,
+        "電": 90,
+        "超能力": 85
+      }
+    }
+  },
+  {
+    "number": "141",
+    "name": "Great Curry-and-Noodle Sandwich",
+    "description": "The eye-widening spiciness of the jalapeño heightens the curry flavor.",
+    "fillings": [
+      "麵條",
+      "紅椒片",
+      "煎培根",
+      "黃椒片",
+      "小辣椒"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "掉物力",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "超能力",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "電",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/141.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "掉物力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 190,
+        "電": 80,
+        "超能力": 85
+      }
+    }
+  },
+  {
+    "number": "142",
+    "name": "Ultra Curry-and-Noodle Sandwich",
+    "description": "The eggs provide a mellow coating over the spicy flavors beneath.",
+    "fillings": [
+      "麵條",
+      "紅椒片",
+      "煎培根",
+      "黃椒片",
+      "小辣椒",
+      "蛋蛋點"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "草",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "冰",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/142.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "岩": 190,
+        "草": 185,
+        "冰": 80
+      }
+    }
+  },
+  {
+    "number": "143",
+    "name": "Master Curry-and-Noodle Sandwich",
+    "description": "The faint sweetness perfects the taste, bringing new depth and richness to the sandwich.",
+    "fillings": [
+      "麵條",
+      "紅椒片",
+      "煎培根",
+      "黃椒片",
+      "小辣椒",
+      "蛋蛋點"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉",
+      "秘傳: 甜味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "岩",
+        "level": "2"
+      },
+      {
+        "name": "蛋蛋點 Power",
+        "type": "",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/143.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 甜味料",
+    "rawEffectValues": {
+      "powers": {
+        "蛋蛋點 Power": 85,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "岩": 190,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "144",
+    "name": "Tower Sandwich",
+    "description": "To this sandwich, the righteous path lies in sheer quantity. It's downright aggressive in its effort to fill you up.",
+    "fillings": [
+      "漢堡排",
+      "麵條",
+      "馬鈴薯沙拉",
+      "米飯"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "1"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "火",
+        "level": "1"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "幽靈",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/144.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "大大點 Power": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "幽靈": 80,
+        "鋼": 90,
+        "火": 85
+      }
+    }
+  },
+  {
+    "number": "145",
+    "name": "Great Tower Sandwich",
+    "description": "This sandwich prioritizes filling you up first and foremost. It's not particularly concerned with flavor.",
+    "fillings": [
+      "漢堡排",
+      "麵條",
+      "馬鈴薯沙拉",
+      "米飯",
+      "毛岸蟹棒"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "幽靈",
+        "level": "1"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "冰",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/145.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 90,
+        "大大點 Power": 80,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "幽靈": 85,
+        "鋼": 190,
+        "冰": 80
+      }
+    }
+  },
+  {
+    "number": "146",
+    "name": "Ultra Tower Sandwich",
+    "description": "A sandwich concerned only with volume. It can be tasty, too, depending on the seasonings.",
+    "fillings": [
+      "漢堡排",
+      "麵條",
+      "馬鈴薯沙拉",
+      "米飯",
+      "毛岸蟹棒",
+      "豆腐"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/146.jpg",
+    "location": "From man in Sandwich shop",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "大大點 Power": 85,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "一般": 80,
+        "鋼": 190,
+        "冰": 185
+      }
+    }
+  },
+  {
+    "number": "147",
+    "name": "Master Tower Sandwich",
+    "description": "Thanks to the magic of spice, this ultra-voluminous sandwich even manages to taste rather good.",
+    "fillings": [
+      "漢堡排",
+      "麵條",
+      "馬鈴薯沙拉",
+      "米飯",
+      "毛岸蟹棒",
+      "豆腐"
+    ],
+    "condiments": [
+      "橄欖油",
+      "鹽",
+      "咖哩粉",
+      "秘傳: 苦味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "鋼",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "經驗力",
+        "type": "格鬥",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/147.jpg",
+    "location": "From man in Sandwich shop if you have 秘傳: 苦味料",
+    "rawEffectValues": {
+      "powers": {
+        "經驗力": 80,
+        "稱號點 Power": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 185,
+        "格鬥": 180,
+        "鋼": 190
+      }
+    }
+  },
+  {
+    "number": "148",
+    "name": "Sushi Sandwich",
+    "description": "A sandwich that aspires to be sushi. Are you surprised at how tasty it is? Good—that's the idea.",
+    "fillings": [
+      "米飯",
+      "煙燻魚片",
+      "煙燻魚片",
+      "毛岸蟹棒"
+    ],
+    "condiments": [
+      "鹽",
+      "醋",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "惡",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "一般",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/148.jpg",
+    "location": "From Sushi Oficianado in Casseroya Lake",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "大大點 Power": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "一般": 80,
+        "格鬥": 85,
+        "惡": 90
+      }
+    }
+  },
+  {
+    "number": "149",
+    "name": "Great Sushi Sandwich",
+    "description": "A sandwich made with a love of sushi foremost in the mind. The bitterness of the watercress works well here.",
+    "fillings": [
+      "米飯",
+      "煙燻魚片",
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜"
+    ],
+    "condiments": [
+      "鹽",
+      "醋",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "經驗力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "格鬥",
+        "level": "1"
+      },
+      {
+        "name": "捕獲力",
+        "type": "一般",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/149.jpg",
+    "location": "From Sushi Oficianado in Casseroya Lake",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 80,
+        "經驗力": 90,
+        "遭遇點 Power": 85
+      },
+      "types": {
+        "一般": 80,
+        "格鬥": 85,
+        "惡": 190
+      }
+    }
+  },
+  {
+    "number": "150",
+    "name": "Ultra Sushi Sandwich",
+    "description": "A sandwich dreamed up by a sushi aficionado. The sheer amount of sandwich going on here is part of the appeal.",
+    "fillings": [
+      "米飯",
+      "煙燻魚片",
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜",
+      "毛岸蟹棒"
+    ],
+    "condiments": [
+      "鹽",
+      "醋",
+      "芥末粉"
+    ],
+    "effects": [
+      {
+        "name": "遭遇點 Power",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "捕獲力",
+        "type": "一般",
+        "level": "2"
+      },
+      {
+        "name": "大大點 Power",
+        "type": "惡",
+        "level": "1"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/150.jpg",
+    "location": "From Sushi Oficianado in Casseroya Lake",
+    "rawEffectValues": {
+      "powers": {
+        "捕獲力": 85,
+        "大大點 Power": 80,
+        "遭遇點 Power": 90
+      },
+      "types": {
+        "一般": 185,
+        "冰": 190,
+        "惡": 80
+      }
+    }
+  },
+  {
+    "number": "151",
+    "name": "Master Sushi Sandwich",
+    "description": "The ultimate form of the Sushi Sandwich. The refreshing sourness elevates this sandwich to masterpiece level.",
+    "fillings": [
+      "米飯",
+      "煙燻魚片",
+      "煙燻魚片",
+      "毛岸蟹棒",
+      "豆瓣菜",
+      "毛岸蟹棒"
+    ],
+    "condiments": [
+      "鹽",
+      "醋",
+      "芥末粉",
+      "秘傳: 酸味料"
+    ],
+    "effects": [
+      {
+        "name": "稱號點 Power",
+        "type": "冰",
+        "level": "2"
+      },
+      {
+        "name": "小小力",
+        "type": "惡",
+        "level": "2"
+      },
+      {
+        "name": "遭遇點 Power",
+        "type": "一般",
+        "level": "2"
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/scarletviolet/sandwich/151.jpg",
+    "location": "From Sushi Oficianado in Casseroya Lake",
+    "rawEffectValues": {
+      "powers": {
+        "稱號點 Power": 90,
+        "小小力": 85,
+        "遭遇點 Power": 80
+      },
+      "types": {
+        "一般": 180,
+        "冰": 190,
+        "惡": 185
+      }
+    }
+  }
+]

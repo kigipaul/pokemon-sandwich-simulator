@@ -1,0 +1,1335 @@
+[
+  {
+    "name": "奶油",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 12
+      },
+      {
+        "flavor": "酸",
+        "amount": 12
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "蟲",
+        "amount": 2
+      },
+      {
+        "type": "幽靈",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/butter.png",
+    "cid": 4
+  },
+  {
+    "name": "辣醬",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 8
+      },
+      {
+        "flavor": "酸",
+        "amount": 12
+      },
+      {
+        "flavor": "鹹",
+        "amount": 8
+      },
+      {
+        "flavor": "辣",
+        "amount": 20
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "水",
+        "amount": 2
+      },
+      {
+        "type": "草",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/chilisauce.png",
+    "cid": 6
+  },
+  {
+    "name": "奶油起司",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 12
+      },
+      {
+        "flavor": "酸",
+        "amount": 12
+      },
+      {
+        "flavor": "鹹",
+        "amount": 12
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 5
+      },
+      {
+        "type": "經驗點",
+        "amount": -3
+      },
+      {
+        "type": "掉物點",
+        "amount": 12
+      },
+      {
+        "type": "小小點",
+        "amount": -15
+      }
+    ],
+    "types": [
+      {
+        "type": "蟲",
+        "amount": 4
+      },
+      {
+        "type": "鋼",
+        "amount": 4
+      },
+      {
+        "type": "水",
+        "amount": 4
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/creamcheese.png",
+    "cid": 11
+  },
+  {
+    "name": "咖哩粉",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 12
+      },
+      {
+        "flavor": "辣",
+        "amount": 30
+      }
+    ],
+    "powers": [
+      {
+        "type": "大大點",
+        "amount": -3
+      },
+      {
+        "type": "小小點",
+        "amount": 21
+      },
+      {
+        "type": "遭遇點",
+        "amount": 12
+      }
+    ],
+    "types": [
+      {
+        "type": "蟲",
+        "amount": 2
+      },
+      {
+        "type": "幽靈",
+        "amount": 2
+      },
+      {
+        "type": "鋼",
+        "amount": 2
+      },
+      {
+        "type": "火",
+        "amount": 2
+      },
+      {
+        "type": "水",
+        "amount": 2
+      },
+      {
+        "type": "草",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/currypowder.png",
+    "cid": 17
+  },
+  {
+    "name": "辣根",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "辣",
+        "amount": 16
+      }
+    ],
+    "powers": [
+      {
+        "type": "大大點",
+        "amount": -3
+      },
+      {
+        "type": "小小點",
+        "amount": 21
+      },
+      {
+        "type": "遭遇點",
+        "amount": 12
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 2
+      },
+      {
+        "type": "格鬥",
+        "amount": 2
+      },
+      {
+        "type": "飛行",
+        "amount": 2
+      },
+      {
+        "type": "毒",
+        "amount": 2
+      },
+      {
+        "type": "地面",
+        "amount": 2
+      },
+      {
+        "type": "岩",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/horseradish.png",
+    "cid": 16
+  },
+  {
+    "name": "莓果醬",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 16
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 16
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 5
+      },
+      {
+        "type": "經驗點",
+        "amount": -3
+      },
+      {
+        "type": "掉物點",
+        "amount": 12
+      },
+      {
+        "type": "小小點",
+        "amount": -15
+      }
+    ],
+    "types": [
+      {
+        "type": "電",
+        "amount": 4
+      },
+      {
+        "type": "冰",
+        "amount": 4
+      },
+      {
+        "type": "惡",
+        "amount": 4
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/jam.png",
+    "cid": 12
+  },
+  {
+    "name": "番茄醬",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 8
+      },
+      {
+        "flavor": "酸",
+        "amount": 16
+      },
+      {
+        "flavor": "鹹",
+        "amount": 16
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "飛行",
+        "amount": 2
+      },
+      {
+        "type": "毒",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/ketchup.png",
+    "cid": 2
+  },
+  {
+    "name": "橘子醬",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 12
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 16
+      },
+      {
+        "flavor": "苦",
+        "amount": 20
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 5
+      },
+      {
+        "type": "經驗點",
+        "amount": -3
+      },
+      {
+        "type": "掉物點",
+        "amount": 12
+      },
+      {
+        "type": "小小點",
+        "amount": -15
+      }
+    ],
+    "types": [
+      {
+        "type": "格鬥",
+        "amount": 4
+      },
+      {
+        "type": "毒",
+        "amount": 4
+      },
+      {
+        "type": "岩",
+        "amount": 4
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/marmalade.png",
+    "cid": 13
+  },
+  {
+    "name": "美乃滋醬",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 8
+      },
+      {
+        "flavor": "鹹",
+        "amount": 20
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 2
+      },
+      {
+        "type": "格鬥",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/mayonnaise.png",
+    "cid": 1
+  },
+  {
+    "name": "黃芥末醬",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "酸",
+        "amount": 8
+      },
+      {
+        "flavor": "鹹",
+        "amount": 8
+      },
+      {
+        "flavor": "苦",
+        "amount": 8
+      },
+      {
+        "flavor": "辣",
+        "amount": 16
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "地面",
+        "amount": 2
+      },
+      {
+        "type": "岩",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/mustard.png",
+    "cid": 3
+  },
+  {
+    "name": "橄欖油",
+    "tastes": [
+      {
+        "flavor": "鹹",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 5
+      },
+      {
+        "type": "經驗點",
+        "amount": -3
+      },
+      {
+        "type": "掉物點",
+        "amount": 12
+      },
+      {
+        "type": "小小點",
+        "amount": -15
+      }
+    ],
+    "types": [
+      {
+        "type": "幽靈",
+        "amount": 4
+      },
+      {
+        "type": "火",
+        "amount": 4
+      },
+      {
+        "type": "草",
+        "amount": 4
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/oliveoil.png",
+    "cid": 14
+  },
+  {
+    "name": "Peanut 奶油",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 16
+      },
+      {
+        "flavor": "酸",
+        "amount": 12
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "鋼",
+        "amount": 2
+      },
+      {
+        "type": "火",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/peanutbutter.png",
+    "cid": 5
+  },
+  {
+    "name": "胡椒",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "苦",
+        "amount": 8
+      },
+      {
+        "flavor": "辣",
+        "amount": 16
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "冰",
+        "amount": 2
+      },
+      {
+        "type": "龍",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/pepper.png",
+    "cid": 8
+  },
+  {
+    "name": "鹽",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 20
+      },
+      {
+        "flavor": "苦",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "電",
+        "amount": 2
+      },
+      {
+        "type": "超能力",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/salt.png",
+    "cid": 7
+  },
+  {
+    "name": "醋",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "鹹",
+        "amount": 20
+      },
+      {
+        "flavor": "苦",
+        "amount": 4
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 5
+      },
+      {
+        "type": "經驗點",
+        "amount": -3
+      },
+      {
+        "type": "掉物點",
+        "amount": 12
+      },
+      {
+        "type": "小小點",
+        "amount": -15
+      }
+    ],
+    "types": [
+      {
+        "type": "超能力",
+        "amount": 4
+      },
+      {
+        "type": "龍",
+        "amount": 4
+      },
+      {
+        "type": "妖精",
+        "amount": 4
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/vinegar.png",
+    "cid": 15
+  },
+  {
+    "name": "芥末粉",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 4
+      },
+      {
+        "flavor": "酸",
+        "amount": 4
+      },
+      {
+        "flavor": "辣",
+        "amount": 20
+      }
+    ],
+    "powers": [
+      {
+        "type": "大大點",
+        "amount": -3
+      },
+      {
+        "type": "小小點",
+        "amount": 21
+      },
+      {
+        "type": "遭遇點",
+        "amount": 12
+      }
+    ],
+    "types": [
+      {
+        "type": "電",
+        "amount": 2
+      },
+      {
+        "type": "超能力",
+        "amount": 2
+      },
+      {
+        "type": "冰",
+        "amount": 2
+      },
+      {
+        "type": "龍",
+        "amount": 2
+      },
+      {
+        "type": "惡",
+        "amount": 2
+      },
+      {
+        "type": "妖精",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/wasabi.png",
+    "cid": 18
+  },
+  {
+    "name": "鮮奶油",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 20
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": 5
+      },
+      {
+        "type": "經驗點",
+        "amount": -3
+      },
+      {
+        "type": "掉物點",
+        "amount": 12
+      },
+      {
+        "type": "小小點",
+        "amount": -15
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 4
+      },
+      {
+        "type": "飛行",
+        "amount": 4
+      },
+      {
+        "type": "地面",
+        "amount": 4
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/whippedcream.png",
+    "cid": 10
+  },
+  {
+    "name": "優格",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 16
+      },
+      {
+        "flavor": "鹹",
+        "amount": 16
+      }
+    ],
+    "powers": [
+      {
+        "type": "蛋蛋點",
+        "amount": -3
+      },
+      {
+        "type": "經驗點",
+        "amount": 12
+      },
+      {
+        "type": "團戰點",
+        "amount": 21
+      }
+    ],
+    "types": [
+      {
+        "type": "惡",
+        "amount": 2
+      },
+      {
+        "type": "妖精",
+        "amount": 2
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/yogurt.png",
+    "cid": 9
+  },
+  {
+    "name": "秘傳: 苦味料",
+    "tastes": [
+      {
+        "flavor": "苦",
+        "amount": 500
+      }
+    ],
+    "powers": [
+      {
+        "type": "稱號點",
+        "amount": 1000
+      },
+      {
+        "type": "閃耀點",
+        "amount": 1000
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 250
+      },
+      {
+        "type": "格鬥",
+        "amount": 250
+      },
+      {
+        "type": "飛行",
+        "amount": 250
+      },
+      {
+        "type": "毒",
+        "amount": 250
+      },
+      {
+        "type": "地面",
+        "amount": 250
+      },
+      {
+        "type": "岩",
+        "amount": 250
+      },
+      {
+        "type": "蟲",
+        "amount": 250
+      },
+      {
+        "type": "幽靈",
+        "amount": 250
+      },
+      {
+        "type": "鋼",
+        "amount": 250
+      },
+      {
+        "type": "火",
+        "amount": 250
+      },
+      {
+        "type": "水",
+        "amount": 250
+      },
+      {
+        "type": "草",
+        "amount": 250
+      },
+      {
+        "type": "電",
+        "amount": 250
+      },
+      {
+        "type": "超能力",
+        "amount": 250
+      },
+      {
+        "type": "冰",
+        "amount": 250
+      },
+      {
+        "type": "龍",
+        "amount": 250
+      },
+      {
+        "type": "惡",
+        "amount": 250
+      },
+      {
+        "type": "妖精",
+        "amount": 250
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/bitterherbamystica.png",
+    "cid": 22
+  },
+  {
+    "name": "秘傳: 辣味料",
+    "tastes": [
+      {
+        "flavor": "辣",
+        "amount": 500
+      }
+    ],
+    "powers": [
+      {
+        "type": "稱號點",
+        "amount": 1000
+      },
+      {
+        "type": "閃耀點",
+        "amount": 1000
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 250
+      },
+      {
+        "type": "格鬥",
+        "amount": 250
+      },
+      {
+        "type": "飛行",
+        "amount": 250
+      },
+      {
+        "type": "毒",
+        "amount": 250
+      },
+      {
+        "type": "地面",
+        "amount": 250
+      },
+      {
+        "type": "岩",
+        "amount": 250
+      },
+      {
+        "type": "蟲",
+        "amount": 250
+      },
+      {
+        "type": "幽靈",
+        "amount": 250
+      },
+      {
+        "type": "鋼",
+        "amount": 250
+      },
+      {
+        "type": "火",
+        "amount": 250
+      },
+      {
+        "type": "水",
+        "amount": 250
+      },
+      {
+        "type": "草",
+        "amount": 250
+      },
+      {
+        "type": "電",
+        "amount": 250
+      },
+      {
+        "type": "超能力",
+        "amount": 250
+      },
+      {
+        "type": "冰",
+        "amount": 250
+      },
+      {
+        "type": "龍",
+        "amount": 250
+      },
+      {
+        "type": "惡",
+        "amount": 250
+      },
+      {
+        "type": "妖精",
+        "amount": 250
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/spicyherbamystica.png",
+    "cid": 23
+  },
+  {
+    "name": "酸 Herba Mystica",
+    "tastes": [
+      {
+        "flavor": "酸",
+        "amount": 500
+      }
+    ],
+    "powers": [
+      {
+        "type": "稱號點",
+        "amount": 1000
+      },
+      {
+        "type": "閃耀點",
+        "amount": 1000
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 250
+      },
+      {
+        "type": "格鬥",
+        "amount": 250
+      },
+      {
+        "type": "飛行",
+        "amount": 250
+      },
+      {
+        "type": "毒",
+        "amount": 250
+      },
+      {
+        "type": "地面",
+        "amount": 250
+      },
+      {
+        "type": "岩",
+        "amount": 250
+      },
+      {
+        "type": "蟲",
+        "amount": 250
+      },
+      {
+        "type": "幽靈",
+        "amount": 250
+      },
+      {
+        "type": "鋼",
+        "amount": 250
+      },
+      {
+        "type": "火",
+        "amount": 250
+      },
+      {
+        "type": "水",
+        "amount": 250
+      },
+      {
+        "type": "草",
+        "amount": 250
+      },
+      {
+        "type": "電",
+        "amount": 250
+      },
+      {
+        "type": "超能力",
+        "amount": 250
+      },
+      {
+        "type": "冰",
+        "amount": 250
+      },
+      {
+        "type": "龍",
+        "amount": 250
+      },
+      {
+        "type": "惡",
+        "amount": 250
+      },
+      {
+        "type": "妖精",
+        "amount": 250
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/saltyherbamystica.png",
+    "cid": 20
+  },
+  {
+    "name": "秘傳: 酸味料",
+    "tastes": [
+      {
+        "flavor": "鹹",
+        "amount": 500
+      }
+    ],
+    "powers": [
+      {
+        "type": "稱號點",
+        "amount": 1000
+      },
+      {
+        "type": "閃耀點",
+        "amount": 1000
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 250
+      },
+      {
+        "type": "格鬥",
+        "amount": 250
+      },
+      {
+        "type": "飛行",
+        "amount": 250
+      },
+      {
+        "type": "毒",
+        "amount": 250
+      },
+      {
+        "type": "地面",
+        "amount": 250
+      },
+      {
+        "type": "岩",
+        "amount": 250
+      },
+      {
+        "type": "蟲",
+        "amount": 250
+      },
+      {
+        "type": "幽靈",
+        "amount": 250
+      },
+      {
+        "type": "鋼",
+        "amount": 250
+      },
+      {
+        "type": "火",
+        "amount": 250
+      },
+      {
+        "type": "水",
+        "amount": 250
+      },
+      {
+        "type": "草",
+        "amount": 250
+      },
+      {
+        "type": "電",
+        "amount": 250
+      },
+      {
+        "type": "超能力",
+        "amount": 250
+      },
+      {
+        "type": "冰",
+        "amount": 250
+      },
+      {
+        "type": "龍",
+        "amount": 250
+      },
+      {
+        "type": "惡",
+        "amount": 250
+      },
+      {
+        "type": "妖精",
+        "amount": 250
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/sourherbamystica.png",
+    "cid": 21
+  },
+  {
+    "name": "秘傳: 甜味料",
+    "tastes": [
+      {
+        "flavor": "甜",
+        "amount": 500
+      }
+    ],
+    "powers": [
+      {
+        "type": "稱號點",
+        "amount": 1000
+      },
+      {
+        "type": "閃耀點",
+        "amount": 1000
+      }
+    ],
+    "types": [
+      {
+        "type": "一般",
+        "amount": 250
+      },
+      {
+        "type": "格鬥",
+        "amount": 250
+      },
+      {
+        "type": "飛行",
+        "amount": 250
+      },
+      {
+        "type": "毒",
+        "amount": 250
+      },
+      {
+        "type": "地面",
+        "amount": 250
+      },
+      {
+        "type": "岩",
+        "amount": 250
+      },
+      {
+        "type": "蟲",
+        "amount": 250
+      },
+      {
+        "type": "幽靈",
+        "amount": 250
+      },
+      {
+        "type": "鋼",
+        "amount": 250
+      },
+      {
+        "type": "火",
+        "amount": 250
+      },
+      {
+        "type": "水",
+        "amount": 250
+      },
+      {
+        "type": "草",
+        "amount": 250
+      },
+      {
+        "type": "電",
+        "amount": 250
+      },
+      {
+        "type": "超能力",
+        "amount": 250
+      },
+      {
+        "type": "冰",
+        "amount": 250
+      },
+      {
+        "type": "龍",
+        "amount": 250
+      },
+      {
+        "type": "惡",
+        "amount": 250
+      },
+      {
+        "type": "妖精",
+        "amount": 250
+      }
+    ],
+    "imageUrl": "https://www.serebii.net/itemdex/sprites/sweetherbamystica.png",
+    "cid": 19
+  }
+]
